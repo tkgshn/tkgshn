@@ -1,6 +1,8 @@
-## tkgshn is
-- CEO of [@civichat](https://github.com/Civichat)
-- software designer
+### Hi, I'm tkgshn🙌
+**I am a CEO of [Civichat](https://civichat.jp)**
+ここに良い感じのテキストたちがたくさん入る
 
-## More info
-- [https:twitter.com/tkgsh](https:twitter.com/tkgsh)
+## Social 📱
+- [twitter](https:twitter.com/tkgsh)
+- [instagram](https:instagram.com/tkgshn)
+
