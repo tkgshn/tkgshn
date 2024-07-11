@@ -1,17 +1,34 @@
-I currently committing to the future of public goods funding. what's the "good" and "Public", how are we beyond private/public?
+# 高木俊輔の自己紹介ページ
 
-Founder of @DeCartograophy . which can provide social diversity score based on a human subjective evaluation of address activity as a computational oracle in Ethereum. based
+このページは、TwitterやGitHub、InstagramなどのSNSのURL欄と紐づいていて、自己紹介や関連リンクを紹介するものである。
 
-Developers using this oracle can retrieve the Plurality Social Diversity of a given wallet address and other wallet addresses or groups (which is a list of wallet addresses) in GraphQL.
+上記で言及したSNSは、情報流通の手段として広く使われているが、以下のような根本的な課題を抱えているのでなるべく使いたくない。
+- 各プラットフォームの収益は広告モデルに依存しているので、滞在時間を伸ばして広告を見せることに最適化している。
+  - 結果的に、アテンションを奪うことに最大化する仕組みになっている。そのアルゴリズムは、BigTechの最高の脳科学者たちが考えだしているもので、素人には太刀打ち出来ない。
+- どのようなアルゴリズムをもとにコンテンツを表示しているのか分からない。政治的・心情的に偏っているフィルターバブルを形成する可能性が高く、時として検閲につながる。
 
-The data used to generate the social graph is determined by the crowdworker. Crowd workers are rewarded by solving Common Sense Task displayed on the platform.
+## 各種リンク
 
-The goal is to collect subjective ratings from each crowd worker and use the “wisdom of crowds” to provide a social graph that is as close to objective as possible.
+- [Twitter 日本語](https://x.com/0xtkgshn)
+  - [Twitter 英語](https://x.com/0xcommune)
+- [Bluesky](https://bsky.app/profile/tkgshn.bsky.social)
+- Nostr: `npub1txum90npvsupzu347gm02gvlnznmw3f9444p5vegt7647mnegjnqd5fehn`
+- [Instagram](https://www.instagram.com/tkgshn)
+- Telegram: `tkgshn`
+- [Spotify](https://open.spotify.com/user/3ni5)
+- [GitHub](https://github.com/tkgshn)
+- Discord: `tkgshn#8537`
+- [note](https://note.com/tkgshn)
+- [mirror](https://mirror.xyz/0xtkgshn.eth)
+- [Medium 英語](https://medium.com/@tkgshn/)
+- [Speaker Deck](https://speakerdeck.com/tkgshn)
+- Ethereum address: `0xF60fB76e6AD89364Af3ffE72C447882bFe390331`
 
-Previously, I founded @Civichat. which is a chatbot. all of the citizens in Japan can find eligible public welfare services. for example, scholarships, national insurance, and more, public goods provided by your government. but, we could proof-of-concept but they didn't pay for us. just freeride.
+## Nostr
+Nostrは、分散化・検閲に強いSNSを実現するためのプロトコル（≠ プラットフォーム）である。詳しくは https://nostr.com/ を参照。Bitcoinと似たような、公開鍵暗号をベースにした仕組みでメッセージに対して署名し、SNSのように使うことができる。「dams」などのクライアントアプリを使えば、TwitterのようなUIで簡単に使うことができる。
+秘密鍵の管理は、「nos2X」を使ってMetaMaskのようにログインすることができる。
 
-so, I was so depressed and decided to leave Japan.
-
-I’m really excited about Optimism’s RetroPGF and Gitcoin (Quadratic Funding) like that. So, our protocol (DeCartography) can use to adjust voting power based on each wallet’s Social diversity score on Quadratic Funding. but, it’s just one use case.
-
-let’s chat. come on twitter@0xcommune or takagishunsuke1129@gmail.com !
+関連記事
+- https://hivemind.vc/nostr/
+- https://blog.lopp.net/why-nostr-matters/
+ 
