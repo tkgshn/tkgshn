@@ -1,18 +1,91 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="UTF-8">
   <title>tkgshn.com</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    #content {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+  </style>
 </head>
+
 <body>
-  <div id="readme">
-    tkgshn = Shunsuke Takagi
-    <ul>
-      <li><a href="https://x.com/0xcommune" target="_blank">Twitter</a></li>
-      <li><a href="https://instagram.com/tkgshn" target="_blank">Instagram</a></li>
-      <li><a href="https://github.com/tkgshn" target="_blank">GitHub</a></li>
-      <li><a href="https://scrapbox.io/tkgshn/" target="_blank">Scrapbox</a></li>
-    </ul>
-  </div>
+  <div id="content"></div>
+
+  <script>
+    const markdown = `
+**Taka**, Shunsuke Takagi （高木俊輔）
+
+Based in Tokyo 🗼, sometimes living a nomadic life around the world 🌎.
+
+- Independent Researcher and Freelance IT Consultant 💻
+  - Expertise in UI Architecture and Product Management.
+  - Passionate about social welfare services, digital public goods, and digital democracy.
+
+- Enjoys coffee, smoking, exploring cities on foot, biking, mountaineering, and climbing ☕️ 🚬 🚶🚴‍♂️🏔️ 🧗‍♂️
+
+- One back backpacker. "Cheap hotel, expensive food" 🎒🧋
+
+---
+
+### Professional Background
+
+#### Social Welfare Service Recommendation
+
+Founded [Civichat, Inc.](https://web.archive.org/web/20220226095739/https://www.civichat.jp/) in 2020.
+The mission was to create a system to recommend eligible social welfare services using formal languages like DSL.
+Secured venture capital funding and conducted PoCs (Proof of Concepts) with local governments in Japan.
+
+However, sustaining the company as a profitable entity was challenging.
+The project has since transitioned to an open-source initiative maintained by the community: [OpenFisca Japan](https://github.com/project-inclusive/OpenFisca-Japan).
+
+#### Community and Researching Digital Public Goods Sustainability
+
+After Civichat was suspended, I began researching the sustainability of digital public goods.
+The central question: "Why are physical public goods supported by governments, while digital public goods are not?"
+
+This exploration led me deep into the world of digital public goods, especially within the Ethereum ecosystem:
+- Attempted to build [DeCartography](https://github.com/DeCartography/), a project that turned out to be overly complex!
+- Worked on [Democratic grant allocation using Quadratic Funding in DigDAO for civic tech projects](https://www.digdao.jp/en/projects/matching-donation/).
+- Contributed to [RadicalxChange](https://docs.google.com/document/u/1/d/1SOqaLPWvITp8OLRSqSv-YdMY56EcV_r5IBrSXzuWgNA/edit#heading=h.8pclttbqzay) and the [Plurality Book](https://www.plurality.net).
+- Hosted [Funding the Commons Tokyo '24](https://www.fundingthecommons.io/tokyo-2024), serving as a bridge between the web3 and public sectors globally, representing [Japan](https://plurality.tokyo).
+
+---
+
+### Social Links
+- [Twitter (JP)](https://x.com/0xtkgshn)
+- [Twitter (EN)](https://x.com/0xcommune)
+- [Bluesky](https://bsky.app/profile/tkgshn.bsky.social)
+- Nostr: \`npub1txum90npvsupzu347gm02gvlnznmw3f9444p5vegt7647mnegjnqd5fehn\`
+- [Instagram](https://www.instagram.com/tkgshn)
+- Telegram: \`tkgshn\`
+- [Spotify](https://open.spotify.com/user/3ni5)
+- [GitHub](https://github.com/tkgshn)
+- Discord: \`tkgshn#8537\`
+- [note](https://note.com/tkgshn)
+- [mirror.xyz](https://mirror.xyz/0xtkgshn.eth)
+- [Medium](https://medium.com/@tkgshn/)
+- [Speaker Deck](https://speakerdeck.com/tkgshn)
+- Ethereum address: \`0xF60fB76e6AD89364Af3ffE72C447882bFe390331\`
+
+---
+
+### Contact
+Email: takagishunsuke1129[at]gmail.com (replace \`[at]\` with \`@\`)
+    `;
+
+    document.getElementById('content').innerHTML = marked.parse(markdown);
+
+    // Add target="_blank" to all links
+    document.querySelectorAll('#content a').forEach(link => {
+      link.setAttribute('target', '_blank');
+    });
+  </script>
 </body>
+
 </html>
