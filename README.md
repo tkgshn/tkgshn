@@ -8,6 +8,6 @@ Based in Tokyo 🗼, sometimes living a nomadic life around the world 🌎.
 
 - Enjoys coffee, smoking, exploring cities on foot, biking, mountaineering, and climbing ☕️ 🚬 🚶🚴‍♂️🏔️ 🧗‍♂️
 
-- One back backpacker. "Cheap hotel, expensive food" 🎒🧋
+- Professional backpacker traveling with just one bag. Motto: "Stay cheap, eat fancy" 🎒🍷
 ---
 more details on https://tkgshn.com
