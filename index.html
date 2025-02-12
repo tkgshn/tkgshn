@@ -1,15 +1,45 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>tkgshn.com</title>
+  <link rel="icon" href="https://i.gyazo.com/4f6a139f4eaa0c5d5a04363b95f18cae.jpg" type="image/x-icon">
+
+  <!-- SEO メタタグ -->
+  <meta name="description" content="Taka, Shunsuke Takagi (高木俊輔) is an IT consultant and independent researcher based in Tokyo. Specializes in digital democracy, social welfare, and innovative technology.">
+  <meta name="keywords" content="IT Consultant, Freelance, Digital Democracy, Social Welfare, Research, Tokyo">
+  <link rel="canonical" href="https://tkgshn.com">
+  <meta name="robots" content="index, follow">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="tkgshn.com">
+  <meta property="og:description" content="Taka, Shunsuke Takagi (高木俊輔) is an IT consultant and independent researcher based in Tokyo.">
+  <meta property="og:url" content="https://tkgshn.com">
+  <meta property="og:image" content="https://i.gyazo.com/4f6a139f4eaa0c5d5a04363b95f18cae.jpg">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="tkgshn.com">
+  <meta name="twitter:description" content="Taka, Shunsuke Takagi is an IT consultant and independent researcher based in Tokyo.">
+  <meta name="twitter:image" content="https://i.gyazo.com/4f6a139f4eaa0c5d5a04363b95f18cae.jpg">
+
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
+    /* コンテンツ全体のスタイル */
     #content {
       max-width: 800px;
       margin: 0 auto;
       padding: 20px;
+    }
+    /* プロジェクトごとのスタイル */
+    .project-list {
+      background-color: #f0f0f0;
+      padding: 15px;
+      border-radius: 5px;
+      margin-bottom: 20px;
     }
   </style>
 </head>
@@ -18,24 +48,32 @@
   <div id="content"></div>
 
   <script>
+    // 計画: Markdownテキストを定義し、markedライブラリでパース後、コンテンツに挿入
     const markdown = `
+<a href="https://gyazo.com/4f6a139f4eaa0c5d5a04363b95f18cae">
+  <img src="https://i.gyazo.com/4f6a139f4eaa0c5d5a04363b95f18cae.jpg" alt="tkgshn profile image" style="width: 100px;">
+</a>
+
 **Taka**, Shunsuke Takagi （高木俊輔）
 
 Based in Tokyo 🗼, sometimes living a nomadic life around the world 🌎.
 
-- Independent Researcher and Freelance IT Consultant 💻
-  - Expertise in UI Architecture and Product Management.
-  - Passionate about social welfare services, digital public goods, and digital democracy.
+- Hack, Research and Experiment. Make money as Freelance IT Consultant 💻
+  - Expertise in **Infomation Architecture**, UX design and Product Management.
+  - Writing code with ChatGPT and Cursor.
+  - Passionate about social welfare services and digital democracy, Radical market, Ethreum.
 
 - Enjoys coffee, smoking, exploring cities on foot, biking, mountaineering, and climbing ☕️ 🚬 🚶🚴‍♂️🏔️ 🧗‍♂️
 
 - Professional backpacker traveling with just one bag. Motto: "Stay cheap, eat fancy" 🎒🍷
 
+- Inspired by the works of [Ayn Rand](https://www.amazon.co.jp/%E8%82%A9%E3%82%92%E3%81%99%E3%81%8F%E3%82%81%E3%82%8B%E3%82%A2%E3%83%88%E3%83%A9%E3%82%B9-%E7%AC%AC%E4%B8%80%E9%83%A8-%E3%82%A2%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%89/dp/4908222010) and [Nassim Nicholas Taleb](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X).
+
 ---
 
-### Professional Background
+## Professional Background
 
-#### Social Welfare Service Recommendation
+### Social Welfare Service Recommendation
 
 Founded [Civichat, Inc.](https://web.archive.org/web/20220226095739/https://www.civichat.jp/) in 2020.
 The mission was to create a system to recommend eligible social welfare services using formal languages like DSL.
@@ -44,20 +82,48 @@ Secured venture capital funding and conducted PoCs (Proof of Concepts) with loca
 However, sustaining the company as a profitable entity was challenging.
 The project has since transitioned to an open-source initiative maintained by the community: [OpenFisca Japan](https://github.com/project-inclusive/OpenFisca-Japan).
 
-#### Community and Researching Digital Public Goods Sustainability
+Recently, based on my professional insight, I'm consulting to the goverment office as Civichat, Inc.
+
+### Community and Researching Digital Public Goods Sustainability
 
 After Civichat was suspended, I began researching the sustainability of digital public goods.
 The central question: "Why are physical public goods supported by governments, while digital public goods are not?"
 
 This exploration led me deep into the world of digital public goods, especially within the Ethereum ecosystem:
-- Attempted to build [DeCartography](https://github.com/DeCartography/), a project that turned out to be overly complex!
-- Worked on [Democratic grant allocation using Quadratic Funding in DigDAO for civic tech projects](https://www.digdao.jp/en/projects/matching-donation/).
-- Contributed to [RadicalxChange](https://docs.google.com/document/u/1/d/1SOqaLPWvITp8OLRSqSv-YdMY56EcV_r5IBrSXzuWgNA/edit#heading=h.8pclttbqzay) and the [Plurality Book](https://www.plurality.net).
-- Hosted [Funding the Commons Tokyo '24](https://www.fundingthecommons.io/tokyo-2024), serving as a bridge between the web3 and public sectors globally, representing [Japan](https://plurality.tokyo).
+#### [DeCartography](https://github.com/DeCartography/)
+- Aimed at creating a social graph based on web3 crowd-sourcing.
+- Predicted to preserve collusion in Quadratic Funding on Gitcoin: https://medium.com/decartography
+- Result showed [COCM mechanism](https://wtfiscocm.streamlit.app/COCM_Sandbox) worked effectively.
+  - [Donation Flow & Cluster Analysis + COCM Visualizations + QF Simulation](https://codepen.io/tkgshn/full/LEPvXgY)
+- This project couldn't achieve cost-effective balance and was suspended!
+
+#### Quadratic Funding Experiment IRL
+Contributing [SimpleGrants](https://www.simplegrants.xyz/) from [Gitcoin](https://gitcoin.co/) to bridge the gap between web3 and real world.
+
+1. [DigDAO Matching donation](https://www.digdao.jp/en/projects/matching-donation/): First experiment with a matching pool of $700.
+   - Worked on grant allocation for civic tech projects.
+   - Focused on local civic tech projects.
+   - Recap and reflection [arcile](https://note.com/tkgshn/n/nfa5142139665) on published!
+
+2. [DIG SHIBUYA](https://www.digdao.jp/en/projects/matching-donation/): Second experiment with a matching pool of $7,000.
+   - Art event in Shibuya, Tokyo.
+   - Focused on local artists and creators.
+
+#### Contributed to [RadicalxChange](https://docs.google.com/document/u/1/d/1SOqaLPWvITp8OLRSqSv-YdMY56EcV_r5IBrSXzuWgNA/edit#heading=h.8pclttbqzay) and the [Plurality Book](https://www.plurality.net)
+- Contributed to both RadicalxChange and the Plurality Book in Japanese.
+- Invited to [Pluraluity Conference in UC Berkeley](https://scrapbox.io/tkgshn/UC_Berkeley%E3%81%A7%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%9FPlurality_Conference%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9F) in 2023.
+
+#### Community Lead: [Funding the Commons Tokyo '24](https://www.fundingthecommons.io/tokyo-2024)
+- Hosted the event, serving as a bridge between the web3 and public sectors globally.
+- Represented [Japanese community](https://plurality.tokyo).
+
+#### Visiting Reseracher at SmartNews Media research lab
+- [SmartNews Media research lab](https://www.smartnews.com/en/about/lab/) is a research lab that conducts research on media and technology.
+- Specifically focused on Digital Democracy and collective intelligence.
 
 ---
 
-### Social Links
+## Social Links
 - [Twitter (JP)](https://x.com/0xtkgshn)
 - [Twitter (EN)](https://x.com/0xcommune)
 - [Bluesky](https://bsky.app/profile/tkgshn.bsky.social)
@@ -75,16 +141,53 @@ This exploration led me deep into the world of digital public goods, especially 
 
 ---
 
-### Contact
+## Contact
 Email: takagishunsuke1129[at]gmail.com (replace \`[at]\` with \`@\`)
     `;
 
+    // MarkdownをHTMLに変換してcontentに挿入
     document.getElementById('content').innerHTML = marked.parse(markdown);
 
-    // Add target="_blank" to all links
+    // 全てのリンクに target="_blank" を追加（新しいタブで開く）
     document.querySelectorAll('#content a').forEach(link => {
       link.setAttribute('target', '_blank');
     });
+
+    /**
+     * 計画: 各プロジェクトごとに、h4見出しから始まるセクションをラップする
+     * ノードを走査し、h1～h3の要素はそのままに、h4以降のプロジェクト関連のコンテンツを
+     * .project-listとしてラップします。
+     */
+    function wrapProjectSections() {
+      const contentDiv = document.getElementById('content');
+      const nodes = Array.from(contentDiv.childNodes);
+      contentDiv.innerHTML = '';
+      let currentWrapper = null;  // 現在のプロジェクトラッパー
+
+      nodes.forEach(node => {
+        // h1～h3の要素の場合、ラッパーをリセットして直に追加
+        if (node.nodeType === Node.ELEMENT_NODE && /^H[1-3]$/.test(node.tagName)) {
+          currentWrapper = null;
+          contentDiv.appendChild(node);
+          return;
+        }
+        // h4の見出しの場合、新たなプロジェクトラッパーを開始
+        if (node.nodeType === Node.ELEMENT_NODE && node.tagName.toLowerCase() === 'h4') {
+          currentWrapper = document.createElement('div');
+          currentWrapper.classList.add('project-list');
+          currentWrapper.appendChild(node);
+          contentDiv.appendChild(currentWrapper);
+        } else {
+          // 既にラッパーが存在していればその中に追加、なければ直に追加
+          if (currentWrapper) {
+            currentWrapper.appendChild(node);
+          } else {
+            contentDiv.appendChild(node);
+          }
+        }
+      });
+    }
+    wrapProjectSections();
   </script>
 </body>
 
