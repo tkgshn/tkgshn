@@ -63,7 +63,7 @@ Leveraging my expertise at this career, I am currently providing consulting serv
 
 <p style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
   Read article: <a href="https://note.com/tkgshn/n/n4fd785cf1381" target="_blank">
-   GovTech Tokyo and Child and Family Agency's Social Security System Diagnosis
+   Data structure and algorithm, criticism for GovTech Tokyo and social walfre services
   </a>
 </p>
 
