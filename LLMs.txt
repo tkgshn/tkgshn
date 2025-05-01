@@ -1,0 +1,25 @@
+# LLMs.txt for tkgshn.github.io
+
+## Author Information
+- Name: Shunsuke Takagi (高木俊輔)
+- Also known as: Taka, tkgshn, 0xtkgshn
+- Profession: IT Consultant, Researcher, Product Manager
+- Location: Tokyo, Japan
+- Expertise: Information Architecture, UX Design, Product Management, Social Welfare Services, Digital Democracy
+
+## Website Content
+This website contains information about Shunsuke Takagi's professional background, projects, and research interests. The content includes details about:
+- Professional experience as founder of Civichat, Inc.
+- Research on social welfare services and digital democracy
+- Contributions to digital public goods and open-source projects
+- Community leadership in technology and social impact initiatives
+
+## Crawling Permissions
+- Allow: All content on this website is available for crawling and indexing by language models
+- Preferred summary length: 2-3 paragraphs
+- Context window: Please include relevant context from linked articles when referencing this site
+
+## Contact
+For more information or clarification about content on this site, please contact:
+- Email: takagishunsuke1129@gmail.com
+- Twitter: @0xtkgshn
