@@ -90,7 +90,23 @@ jobs:
           {
             "branches": ["master"],
             "plugins": [
-              "@semantic-release/commit-analyzer",
+              ["@semantic-release/commit-analyzer", {
+                "preset": "angular",
+                "releaseRules": [
+                  {"type": "fix", "release": "patch"},
+                  {"type": "update", "release": "patch"},
+                  {"type": "add", "release": "minor"},
+                  {"type": "improve", "release": "patch"},
+                  {"subject": "*fix*", "release": "patch"},
+                  {"subject": "*update*", "release": "patch"},
+                  {"subject": "*add*", "release": "minor"},
+                  {"subject": "*improve*", "release": "patch"},
+                  {"message": "*fix*", "release": "patch"},
+                  {"message": "*update*", "release": "patch"},
+                  {"message": "*add*", "release": "minor"},
+                  {"message": "*improve*", "release": "patch"}
+                ]
+              }],
               "@semantic-release/release-notes-generator",
               "@semantic-release/github"
             ]
