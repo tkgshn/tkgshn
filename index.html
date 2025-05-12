@@ -65,20 +65,34 @@
     // 計画: 外部のMarkdownファイルを読み込み、markedライブラリでパース後、コンテンツに挿入
     async function loadContent() {
       try {
-        const response = await fetch('./content/main.md');
+        // URLからページパスを取得
+        const path = window.location.pathname;
+        let markdownPath;
+
+        if (path === '/' || path === '/index.html') {
+          markdownPath = './content/main.md';
+        } else {
+          // /content/professional のようなパスから、対応するMarkdownファイルのパスを生成
+          markdownPath = `.${path}.md`;
+        }
+
+        const response = await fetch(markdownPath);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
         const markdown = await response.text();
-        
+
         // MarkdownをHTMLに変換してcontentに挿入
         document.getElementById('content').innerHTML = marked.parse(markdown);
-        
+
         // 全てのリンクに target="_blank" を追加（新しいタブで開く）
         document.querySelectorAll('#content a').forEach(link => {
-          link.setAttribute('target', '_blank');
+          // 内部リンク（.mdで終わるリンク）は新しいタブで開かない
+          if (!link.href.endsWith('.md')) {
+            link.setAttribute('target', '_blank');
+          }
         });
-        
+
         // プロジェクトセクションをラップする
         wrapProjectSections();
       } catch (error) {
@@ -121,7 +135,7 @@
         }
       });
     }
-    
+
     // ページ読み込み時にコンテンツを読み込む
     window.addEventListener('DOMContentLoaded', loadContent);
   </script>
