@@ -73,8 +73,11 @@
           markdownPath = './content/main.md';
         } else {
           // /content/professional のようなパスから、対応するMarkdownファイルのパスを生成
-          markdownPath = `.${path}.md`;
+          // パスの最後が.mdで終わっていない場合は.mdを追加
+          markdownPath = path.endsWith('.md') ? `.${path}` : `.${path}.md`;
         }
+
+        console.log('Loading markdown from:', markdownPath); // デバッグ用
 
         const response = await fetch(markdownPath);
         if (!response.ok) {
