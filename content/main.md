@@ -147,19 +147,19 @@ Contributing [SimpleGrants](https://www.simplegrants.xyz/) from [Gitcoin](https:
 
 
 ## Social Links
-- [Twitter (JP)](https://x.com/0xtkgshn)
-- [Twitter (EN)](https://x.com/0xcommune)
-- [Bluesky](https://bsky.app/profile/tkgshn.bsky.social)
+- Twitter（JA）: https://twitter.com/0xtkgshn [Twitter (JP)](https://x.com/0xtkgshn)
+- Twitter（EN）: https://twitter.com/0xcommune [Twitter (EN)](https://x.com/0xcommune)
+- Bluesky: https://bsky.app/profile/tkgshn.bsky.social [Bluesky](https://bsky.app/profile/tkgshn.bsky.social)
 - Nostr: `npub1txum90npvsupzu347gm02gvlnznmw3f9444p5vegt7647mnegjnqd5fehn`
-- [Instagram](https://www.instagram.com/tkgshn)
+- Instagram: https://www.instagram.com/tkgshn [Instagram](https://www.instagram.com/tkgshn)
 - Telegram: `tkgshn`
-- [Spotify](https://open.spotify.com/user/3ni5)
-- [GitHub](https://github.com/tkgshn)
+- Spotify: https://open.spotify.com/user/3ni5 [Spotify](https://open.spotify.com/user/3ni5)
+- GitHub: https://github.com/tkgshn [GitHub](https://github.com/tkgshn)
 - Discord: `tkgshn#8537`
-- [note](https://note.com/tkgshn)
-- [mirror.xyz](https://mirror.xyz/0xtkgshn.eth)
-- [Medium](https://medium.com/@tkgshn/)
-- [Speaker Deck](https://speakerdeck.com/tkgshn)
+- note: https://note.com/tkgshn [note](https://note.com/tkgshn)
+- mirror.xyz: https://mirror.xyz/0xtkgshn.eth [mirror.xyz](https://mirror.xyz/0xtkgshn.eth)
+- Medium: https://medium.com/@tkgshn/ [Medium](https://medium.com/@tkgshn/)
+- Speaker Deck: https://speakerdeck.com/tkgshn [Speaker Deck](https://speakerdeck.com/tkgshn)
 - Ethereum address: `0xF60fB76e6AD89364Af3ffE72C447882bFe390331`
 
 ---
