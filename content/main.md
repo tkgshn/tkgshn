@@ -20,7 +20,7 @@ Based in Tokyo 🗼, sometimes living a nomadic life around the world 🌎.
 
 ---
 
-[Professional Background](professional.md)
+[Professional Background](content/professional.md)
 
 ## Social Links
 
