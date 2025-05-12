@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Professional Background - tkgshn.com</title>
+  <link rel="icon" href="https://i.gyazo.com/4f6a139f4eaa0c5d5a04363b95f18cae.jpg" type="image/x-icon">
+
+  <!-- SEO メタタグ -->
+  <meta name="description" content="Professional Background of Taka, Shunsuke Takagi (高木俊輔). Information about career, experiences, and contributions.">
+  <meta name="keywords" content="tkgshn, 高木俊輔, たか, 0xtkgshn, taka, IT Consultant, Freelance, Digital Democracy, Social Welfare, Research, Tokyo">
+  <link rel="canonical" href="https://tkgshn.com/professional">
+  <meta name="robots" content="index, follow">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Professional Background - tkgshn.com">
+  <meta property="og:description" content="Professional Background of Taka, Shunsuke Takagi (高木俊輔).">
+  <meta property="og:url" content="https://tkgshn.com/professional">
+  <meta property="og:image" content="https://i.gyazo.com/4f6a139f4eaa0c5d5a04363b95f18cae.jpg">
+  <meta property="og:type" content="website">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Professional Background - tkgshn.com">
+  <meta name="twitter:description" content="Professional Background of Taka, Shunsuke Takagi.">
+  <meta name="twitter:image" content="https://i.gyazo.com/4f6a139f4eaa0c5d5a04363b95f18cae.jpg">
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    /* コンテンツ全体のスタイル */
+    #content {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    /* プロジェクトごとのスタイル */
+    .project-list {
+      background-color: #f0f0f0;
+      padding: 15px;
+      border-radius: 5px;
+      margin-bottom: 20px;
+    }
+    /* レスポンシブデザイン - モバイル対応 */
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    /* フレックスボックスのレスポンシブ対応 */
+    @media (max-width: 768px) {
+      div[style*="display: flex"] {
+        flex-direction: column;
+      }
+      div[style*="display: flex"] > a {
+        margin: 10px 0 !important;
+      }
+    }
+    /* ナビゲーションリンク */
+    .nav-link {
+      display: block;
+      margin-bottom: 20px;
+      padding: 5px;
+      background-color: #f8f8f8;
+      border-radius: 5px;
+      text-align: center;
+    }
+    .nav-link a {
+      text-decoration: none;
+      color: #333;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="nav-link">
+    <a href="/">← トップページに戻る</a>
+  </div>
+  <div id="content"></div>
+
+  <script>
+    // 計画: 外部のMarkdownファイルを読み込み、markedライブラリでパース後、コンテンツに挿入
+    async function loadContent() {
+      try {
+        const markdownPath = './content/professional.md';
+        console.log('Loading markdown from:', markdownPath);
+
+        const response = await fetch(markdownPath);
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const markdown = await response.text();
+
+        // MarkdownをHTMLに変換してcontentに挿入
+        document.getElementById('content').innerHTML = marked.parse(markdown);
+
+        // 全てのリンクに target="_blank" を追加（新しいタブで開く）
+        document.querySelectorAll('#content a').forEach(link => {
+          // 内部リンク（.mdで終わるリンク）は新しいタブで開かない
+          if (!link.href.endsWith('.md')) {
+            link.setAttribute('target', '_blank');
+          }
+        });
+
+        // プロジェクトセクションをラップする
+        wrapProjectSections();
+      } catch (error) {
+        console.error('コンテンツの読み込みに失敗しました:', error);
+        document.getElementById('content').innerHTML = '<p>コンテンツの読み込みに失敗しました。ページを再読み込みしてください。</p>';
+      }
+    }
+
+    /**
+     * 計画: 各プロジェクトごとに、h4見出しから始まるセクションをラップする
+     * ノードを走査し、h1～h3の要素はそのままに、h4以降のプロジェクト関連のコンテンツを
+     * .project-listとしてラップします。
+     */
+    function wrapProjectSections() {
+      const contentDiv = document.getElementById('content');
+      const nodes = Array.from(contentDiv.childNodes);
+      contentDiv.innerHTML = '';
+      let currentWrapper = null;  // 現在のプロジェクトラッパー
+
+      nodes.forEach(node => {
+        // h1～h3の要素の場合、ラッパーをリセットして直に追加
+        if (node.nodeType === Node.ELEMENT_NODE && /^H[1-3]$/.test(node.tagName)) {
+          currentWrapper = null;
+          contentDiv.appendChild(node);
+          return;
+        }
+        // h4の見出しの場合、新たなプロジェクトラッパーを開始
+        if (node.nodeType === Node.ELEMENT_NODE && node.tagName.toLowerCase() === 'h4') {
+          currentWrapper = document.createElement('div');
+          currentWrapper.classList.add('project-list');
+          currentWrapper.appendChild(node);
+          contentDiv.appendChild(currentWrapper);
+        } else {
+          // 既にラッパーが存在していればその中に追加、なければ直に追加
+          if (currentWrapper) {
+            currentWrapper.appendChild(node);
+          } else {
+            contentDiv.appendChild(node);
+          }
+        }
+      });
+    }
+
+    // ページ読み込み時にコンテンツを読み込む
+    window.addEventListener('DOMContentLoaded', loadContent);
+  </script>
+</body>
+
+</html>

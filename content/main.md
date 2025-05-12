@@ -6,11 +6,11 @@
 
 Independent researcher of governmentality who want to be world more simplify.
 
-I love the art of governance as the coordination but I hate the most of government. So I'm here in Ethereum. Alignment game, Crypto Economics, Radical Market, Plurality. formelyer I founded Civichat, Inc. for the government.
+I love the art of governance as the coordination but I hate the most of government. So I'm here in Ethereum. the powemarket will collect
+
+Alignment game, Crypto Economics, Radical Market, Plurality. formelyer I founded Civichat, Inc. for the government.
 
 Just based on quriosity, Writing, building, reading and making the gather place.
-
-
 
 Based in Tokyo 🗼, sometimes living a nomadic life around the world 🌎.
 
@@ -18,7 +18,7 @@ Inspired by the works of [Ayn Rand](https://www.amazon.co.jp/%E8%82%A9%E3%82%92%
 
 ---
 
-[Professional Background](/content/professional)
+[Professional Background](/professional.html)
 
 ## Social Links
 
