@@ -19,6 +19,7 @@ Inspired by the works of [Ayn Rand](https://www.amazon.co.jp/%E8%82%A9%E3%82%92%
 ---
 
 ## Pick-up Articles
+
 - [A Kardashev Scale for Democracy: Notes for Futarchy](https://note.com/tkgshn/n/n6a587934701a)
 - [Data Structure and Algorithm for Social Welfare Service Eligibility Assessment](https://note.com/tkgshn/n/n4fd785cf1381)
 - [What Can Japan Learn from Taiwan's Digital Democracy?](https://note.com/digitaldemocracy/n/naaa818d919c7)
@@ -34,7 +35,14 @@ Inspired by the works of [Ayn Rand](https://www.amazon.co.jp/%E8%82%A9%E3%82%92%
 - [ChatUI is Here: Why It's More Than Web and Apps for Social Welfare Assessment](https://mirror.xyz/0xtkgshn.eth/L9OHtDLLhelkOhHCq4Bgr1JoMVHR5IStDGy0Jruc7-Y)
 
 ## Background & projects
+
 [Professional Background](/professional.html)
+
+## Recent Scrapbox Pages
+
+<div id="scrapbox-pages">
+  Loading Scrapbox pages...
+</div>
 
 ## Social Links
 
