@@ -1,0 +1,32 @@
+name: Update Scrapbox Data
+
+on:
+  schedule:
+    # 毎日06:00 JST (21:00 UTC) に実行
+    - cron: "0 21 * * *"
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  update-scrapbox-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+
+      - name: Fetch Scrapbox data
+        run: |
+          # Scrapboxデータ取得スクリプトの実行
+          node scripts/fetch-scrapbox.js
+
+      - name: Commit and push if data changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/scrapbox-pages.json
+          git diff --staged --quiet || (git commit -m "Update Scrapbox data $(date '+%Y-%m-%d %H:%M:%S')" && git push)
