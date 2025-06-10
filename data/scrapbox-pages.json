@@ -1,7 +1,172 @@
 {
   "project": "tkgshn",
-  "lastUpdated": 1749503161413,
+  "lastUpdated": 1749589575703,
   "pages": [
+    {
+      "id": "6847da5bc7a27910ef56fc32",
+      "title": "Norvan Jacket",
+      "image": "https://gyazo.com/852961acc4dca5565ab54cc0f14bbe07/raw",
+      "descriptions": [
+        "[public.icon]",
+        "[Arcteryx]の中で[トレイルランニング]に特化した[Norvan Jacket]",
+        "「[gore-tex]の軽量シェル」という扱いになる",
+        "軽量ながら、耐水性はちゃんとある",
+        "ちゃんとフードにも絞りがついていて、調整可能"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 9,
+      "linked": 0,
+      "created": 1749195949,
+      "updated": 1749537844,
+      "accessed": 1749551422,
+      "linesCount": 41,
+      "charsCount": 807,
+      "helpfeels": [],
+      "contentText": "Norvan Jacket [Arcteryx]の中で[トレイルランニング]に特化した[Norvan Jacket] 「[gore-tex]の軽量シェル」という扱いになる 軽量ながら、耐水性はちゃんとある",
+      "tags": [
+        "Arcteryx",
+        "トレイルランニング",
+        "Norvan Jacket",
+        "gore-tex"
+      ]
+    },
+    {
+      "id": "6847be64c754392790e4f75d",
+      "title": "フレンチのコースを自炊",
+      "image": "https://gyazo.com/ea917687d76b6d442fcc82f6f2fa04b9/raw",
+      "descriptions": [
+        "[public.icon]",
+        "[フランス料理]",
+        ">[https://x.com/0xtkgshn/status/1932034831338410349 @0xtkgshn]: [GPTs]で 「[料理の構造]」botを作ってご飯の構造壁打ちできるのすごすぎる",
+        "[GPTsで「料理の四面体Bot」を作った]",
+        "[https://gyazo.com/ea917687d76b6d442fcc82f6f2fa04b9]"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 7,
+      "linked": 0,
+      "created": 1749528342,
+      "updated": 1749529052,
+      "accessed": 1749569079,
+      "linesCount": 24,
+      "charsCount": 537,
+      "helpfeels": [],
+      "contentText": "フレンチのコースを自炊 [フランス料理] >: [GPTs]で 「[料理の構造]」botを作ってご飯の構造壁打ちできるのすごすぎる [GPTsで「料理の四面体Bot」を作った]",
+      "tags": [
+        "フランス料理",
+        "GPTs",
+        "料理の構造",
+        "GPTsで「料理の四面体Bot」を作った"
+      ]
+    },
+    {
+      "id": "641b540b82f5b0001c429ba4",
+      "title": "ヨーロッパは間違いなく宗教史、建築、哲学などで世界をリードしているけど、今世紀からはアメリカの資本主義と対立している（?）",
+      "image": null,
+      "descriptions": [
+        "[public.icon]",
+        "from [ヨーロッパでデモを見て思うこと]",
+        "[ヨーロッパは間違いなく宗教史、建築、哲学などで世界をリードしているけど、今世紀からはアメリカの資本主義と対立している（?）]",
+        "対立ではないのか",
+        "ポジションが違うだけで"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 7,
+      "linked": 1,
+      "created": 1679487148,
+      "updated": 1749528587,
+      "accessed": 1749587901,
+      "linesCount": 21,
+      "charsCount": 854,
+      "helpfeels": [],
+      "contentText": "ヨーロッパは間違いなく宗教史、建築、哲学などで世界をリードしているけど、今世紀からはアメリカの資本主義と対立している（?） from [ヨーロッパでデモを見て思うこと] 対立ではないのか",
+      "tags": [
+        "ヨーロッパでデモを見て思うこと"
+      ]
+    },
+    {
+      "id": "63cd92740a0841001dc75a0d",
+      "title": "料理の四面体",
+      "image": "https://gyazo.com/52a423ee7dc97722ba6dc6518f2807ae/raw",
+      "descriptions": [
+        "[public.icon]",
+        "関連: [自炊を構造主義から学んでいくことで最強になりたい], [〈フランス料理という考え方〉について｜樋口直哉(TravelingFoodLab.)]",
+        "https://www.amazon.co.jp/料理の四面体-中公文庫-玉村-豊男/dp/4122052831",
+        "[https://gyazo.com/52a423ee7dc97722ba6dc6518f2807ae]",
+        "[- [k3ntar0.icon]に教えてもらって[町屋]においたまま、結局あんまり読まなかった...]"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 22,
+      "linked": 0,
+      "created": 1671483167,
+      "updated": 1749528561,
+      "accessed": 1748526959,
+      "linesCount": 40,
+      "charsCount": 1673,
+      "helpfeels": [],
+      "contentText": "料理の四面体 関連: [自炊を構造主義から学んでいくことで最強になりたい], [〈フランス料理という考え方〉について｜樋口直哉(TravelingFoodLab.)] https://www.amazon.co.jp/料理の四面体-中公文庫-玉村-豊男/dp/4122052831",
+      "tags": [
+        "自炊を構造主義から学んでいくことで最強になりたい",
+        "町屋"
+      ]
+    },
+    {
+      "id": "6847b18d832431a8f8af84c1",
+      "title": "Citizen",
+      "image": null,
+      "descriptions": [
+        "[public.icon]",
+        ">[https://x.com/0xtkgshn/status/1932272857276699064 @0xtkgshn]: Citizensというみんなで事件とか事故の様子をライブストリーミングするアプリがあるのだけど、それが今回のLAの[プロテスト]でかなり活躍したらしく、「世界がやばくなればやばくなるほど価値が出る」アンチフラジャイルな事業ってあるなーと。もはやここに既存メディアは追随出来",
+        "[NY生活]で使っていた",
+        "[citizen]",
+        "[JX通信社]のとりくみ���も似ている気がする"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 2,
+      "linked": 0,
+      "created": 1749528266,
+      "updated": 1749528315,
+      "accessed": 1749588946,
+      "linesCount": 10,
+      "charsCount": 266,
+      "helpfeels": [],
+      "contentText": "Citizen >: Citizensというみんなで事件とか事故の様子をライブストリーミングするアプリがあるのだけど、それが今回のLAの[プロテスト]でかなり活躍したらしく、「世界がやばくなればやばくなるほど価値が出る」アンチフラジャイルな事業ってあるなーと。もはやここに既存メディアは追随出来ない。 [NY生活]で使っていた [citizen]",
+      "tags": [
+        "プロテスト",
+        "NY生活",
+        "citizen",
+        "JX通信社"
+      ]
+    },
     {
       "id": "684689223d345494839dca53",
       "title": "beyond ミーティング #67",
@@ -20,11 +185,11 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 1,
+      "views": 2,
       "linked": 0,
       "created": 1749452383,
       "updated": 1749452625,
-      "accessed": 1749479363,
+      "accessed": 1749514197,
       "linesCount": 48,
       "charsCount": 1501,
       "helpfeels": [],
@@ -55,7 +220,7 @@
       "linked": 0,
       "created": 1660491535,
       "updated": 1749229397,
-      "accessed": 1749438162,
+      "accessed": 1749556859,
       "linesCount": 12,
       "charsCount": 639,
       "helpfeels": [],
@@ -96,163 +261,6 @@
       "tags": [
         "Limitless Pendant"
       ]
-    },
-    {
-      "id": "6552eba0d8239e001c9b4611",
-      "title": "ナップサックに入れたいもの",
-      "image": "https://gyazo.com/6546b81be0edb181b28e561d374a1f9c/raw",
-      "descriptions": [
-        "[public.icon]",
-        "from [2023/10/14]",
-        "[ナップサック]に入れたいもの",
-        "[ボルダリング]行く時に、[パウダー]と[シューズ]と着替えを持っていく",
-        "暑くなった時に服を入れておける"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 11,
-      "linked": 0,
-      "created": 1697252852,
-      "updated": 1749205909,
-      "accessed": 1749474988,
-      "linesCount": 27,
-      "charsCount": 634,
-      "helpfeels": [],
-      "contentText": "ナップサックに入れたいもの from [2023/10/14] [ナップサック]に入れたいもの [ボルダリング]行く時に、[パウダー]と[シューズ]と着替えを持っていく",
-      "tags": [
-        "ナップサック",
-        "ボルダリング",
-        "パウダー",
-        "シューズ"
-      ]
-    },
-    {
-      "id": "6842dc1e3bfa1232c8bbc193",
-      "title": "極度に発達した軽量化はゴミ袋（ダイニーマ）にしか見えない",
-      "image": null,
-      "descriptions": [
-        "[public.icon]",
-        "from [2025/6/06]",
-        "極度に発達した軽量化はゴミ袋（[ダイニーマ]）にしか見えない",
-        "[ダイニーマのビニール袋]",
-        "https://x.com/nagiko726/status/1382172865890455556"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 6,
-      "linked": 0,
-      "created": 1749195321,
-      "updated": 1749200482,
-      "accessed": 1749377243,
-      "linesCount": 11,
-      "charsCount": 221,
-      "helpfeels": [],
-      "contentText": "極度に発達した軽量化はゴミ袋（ダイニーマ）にしか見えない from [2025/6/06] 極度に発達した軽量化はゴミ袋（[ダイニーマ]）にしか見えない [ダイニーマのビニール袋]",
-      "tags": [
-        "ダイニーマ",
-        "ダイニーマのビニール袋"
-      ]
-    },
-    {
-      "id": "65d6661709a77c0026354b68",
-      "title": "一つだけ靴を持つならトレランシューズ?",
-      "image": null,
-      "descriptions": [
-        "[public.icon]",
-        "[2025/6/6] どうなのだろうか？",
-        "https://x.com/0xtkgshn/status/1930884403695346141",
-        "[コンシール fl]",
-        "だと思う"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 13,
-      "linked": 0,
-      "created": 1708489766,
-      "updated": 1749198105,
-      "accessed": 1749496450,
-      "linesCount": 17,
-      "charsCount": 351,
-      "helpfeels": [],
-      "contentText": "一つだけ靴を持つならトレランシューズ? [2025/6/6] どうなのだろうか？ https://x.com/0xtkgshn/status/1930884403695346141 [コンシール fl]",
-      "tags": [
-        "コンシール fl"
-      ]
-    },
-    {
-      "id": "64219b33dc3662001cc5402a",
-      "title": "恒温生物である我々ホモサピエンスの限界を越えるために衣服に課金して移動も含めて世界中どこでも・どんな気温でも快適に過ごせる環境を手に入れる",
-      "image": "https://gyazo.com/0855fa56bc0e2420ca252b816dea9e6b/raw",
-      "descriptions": [
-        "[public.icon]",
-        "服ってめちゃくちゃめんどくさい",
-        "まず、着るのがめんどくさい",
-        "[全裸]が一番いいと思うのだが、世界は刺激的すぎる",
-        "裸のまま椅子に座るとあんまり快適ではないし、外温が微妙だと服をきた方がいいという感情になる"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 16,
-      "linked": 0,
-      "created": 1679922983,
-      "updated": 1749197933,
-      "accessed": 1749365157,
-      "linesCount": 93,
-      "charsCount": 2614,
-      "helpfeels": [],
-      "contentText": "恒温生物である我々ホモサピエンスの限界を越えるために衣服に課金して移動も含めて世界中どこでも・どんな気温でも快適に過ごせる環境を手に入れる 服ってめちゃくちゃめんどくさい まず、着るのがめんどくさい [全裸]が一番いいと思うのだが、世界は刺激的すぎる",
-      "tags": [
-        "全裸"
-      ]
-    },
-    {
-      "id": "682f301fa04df5d358b679bf",
-      "title": "軽量化",
-      "image": "https://gyazo.com/665ca31c5527731913f218f0d13473c4/raw",
-      "descriptions": [
-        "[public.icon]",
-        "[2025/5/28] これで[2025/6/12~20 上海]も行こうと思う[tkgshn.icon]",
-        "https://gemini.google.com/u/0/app/d1cecf5344073779?hl=ja&pli=1",
-        "[Gemini.icon]とチャットしてツールを作った",
-        "[ChatGPT.icon]よりも賢い"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 17,
-      "linked": 0,
-      "created": 1747919849,
-      "updated": 1749196481,
-      "accessed": 1749438179,
-      "linesCount": 46,
-      "charsCount": 1044,
-      "helpfeels": [],
-      "contentText": "軽量化 [2025/5/28] これで[2025/6/12~20 上海]も行こうと思う https://gemini.google.com/u/0/app/d1cecf5344073779?hl=ja&pli=1 とチャットしてツールを作った",
-      "tags": []
     }
   ]
 }
