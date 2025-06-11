@@ -1,6 +1,6 @@
 {
   "project": "tkgshn",
-  "lastUpdated": 1749589575703,
+  "lastUpdated": 1749675959289,
   "pages": [
     {
       "id": "6847da5bc7a27910ef56fc32",
@@ -20,11 +20,11 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 9,
+      "views": 11,
       "linked": 0,
       "created": 1749195949,
       "updated": 1749537844,
-      "accessed": 1749551422,
+      "accessed": 1749646677,
       "linesCount": 41,
       "charsCount": 807,
       "helpfeels": [],
@@ -58,7 +58,7 @@
       "linked": 0,
       "created": 1749528342,
       "updated": 1749529052,
-      "accessed": 1749569079,
+      "accessed": 1749625855,
       "linesCount": 24,
       "charsCount": 537,
       "helpfeels": [],
@@ -119,7 +119,7 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 22,
+      "views": 23,
       "linked": 0,
       "created": 1671483167,
       "updated": 1749528561,
@@ -142,7 +142,7 @@
         ">[https://x.com/0xtkgshn/status/1932272857276699064 @0xtkgshn]: Citizensというみんなで事件とか事故の様子をライブストリーミングするアプリがあるのだけど、それが今回のLAの[プロテスト]でかなり活躍したらしく、「世界がやばくなればやばくなるほど価値が出る」アンチフラジャイルな事業ってあるなーと。もはやここに既存メディアは追随出来",
         "[NY生活]で使っていた",
         "[citizen]",
-        "[JX通信社]のとりくみ���も似ている気がする"
+        "[JX通信社]のとりくみにも似ている気がする"
       ],
       "user": {
         "id": "5b9f8ea76ffa88001309c5f2"
@@ -151,7 +151,7 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 2,
+      "views": 3,
       "linked": 0,
       "created": 1749528266,
       "updated": 1749528315,
@@ -216,11 +216,11 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 16,
+      "views": 17,
       "linked": 0,
       "created": 1660491535,
       "updated": 1749229397,
-      "accessed": 1749556859,
+      "accessed": 1749608484,
       "linesCount": 12,
       "charsCount": 639,
       "helpfeels": [],
@@ -249,11 +249,11 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 8,
+      "views": 9,
       "linked": 0,
       "created": 1749182262,
       "updated": 1749227969,
-      "accessed": 1749481933,
+      "accessed": 1749630473,
       "linesCount": 44,
       "charsCount": 1320,
       "helpfeels": [],
