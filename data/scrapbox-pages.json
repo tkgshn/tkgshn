@@ -1,6 +1,6 @@
 {
   "project": "tkgshn",
-  "lastUpdated": 1749675959289,
+  "lastUpdated": 1749762381714,
   "pages": [
     {
       "id": "6847da5bc7a27910ef56fc32",
@@ -8,7 +8,7 @@
       "image": "https://gyazo.com/852961acc4dca5565ab54cc0f14bbe07/raw",
       "descriptions": [
         "[public.icon]",
-        "[Arcteryx]の中で[トレイルランニング]に特化した[Norvan Jacket]",
+        "[Arcteryx]の中で[ト���イルランニング]に特化した[Norvan Jacket]",
         "「[gore-tex]の軽量シェル」という扱いになる",
         "軽量ながら、耐水性はちゃんとある",
         "ちゃんとフードにも絞りがついていて、調整可能"
@@ -31,7 +31,7 @@
       "contentText": "Norvan Jacket [Arcteryx]の中で[トレイルランニング]に特化した[Norvan Jacket] 「[gore-tex]の軽量シェル」という扱いになる 軽量ながら、耐水性はちゃんとある",
       "tags": [
         "Arcteryx",
-        "トレイルランニング",
+        "ト���イルランニング",
         "Norvan Jacket",
         "gore-tex"
       ]
@@ -196,70 +196,6 @@
       "contentText": "beyond ミーティング #67 https://bm67.peatix.com/view [beyond ミーティング] >[*** ■Beyondミーティングとは？]",
       "tags": [
         "beyond ミーティング"
-      ]
-    },
-    {
-      "id": "633aa2bebe12f5001d8fc6e1",
-      "title": "チームラボをアートに含められないという批評",
-      "image": null,
-      "descriptions": [
-        "[public.icon]",
-        ">[https://twitter.com/asaman_man/status/1553390068966248453 @asaman_man]: [ディズニー]と[チームラボ]の批評読んだ。「アートとマーケットを切り分けて扱う」ため、そして「たくさんの人が観る＝いい作品」になるのを防ぐため、注意深く無視されてきた存在が、チームラボだと思う。",
-        ">あれをアートと認めると、動員の理論と評価が混在してしまうから、無視する必要があった。でも、現代アート作家や批評家が「戦略的に無視」したところで、夥しい数の人々がチームラボを見に行き、それを「アート」だと感じるならば、アートの意味は書きかわっていくのかもしれないよね。",
-        "> そのとき、「美しい国、日本」みたいな[インスタレーション]が作られて、無批判に享受するような未来がくるのかもしれないね。",
-        "> 余裕で想像できるよね。"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 17,
-      "linked": 0,
-      "created": 1660491535,
-      "updated": 1749229397,
-      "accessed": 1749608484,
-      "linesCount": 12,
-      "charsCount": 639,
-      "helpfeels": [],
-      "contentText": "チームラボをアートに含められないという批評 >: [ディズニー]と[チームラボ]の批評読んだ。「アートとマーケットを切り分けて扱う」ため、そして「たくさんの人が観る＝いい作品」になるのを防ぐため、注意深く無視されてきた存在が、チームラボだと思う。 >あれをアートと認めると、動員の理論と評価が混在してしまうから、無視する必要があった。でも、現代アート作家や批評家が「戦略的に無視」したところで、夥しい…",
-      "tags": [
-        "ディズニー",
-        "チームラボ",
-        "インスタレーション"
-      ]
-    },
-    {
-      "id": "68426bb04e711a3647b1c392",
-      "title": "Limitless PendantとPlaudの違い",
-      "image": "https://pbs.twimg.com/media/GsraanObAAArQpS.jpg",
-      "descriptions": [
-        "[public.icon]",
-        "from [2025/6/06]",
-        "Limitless PendantとPlaudの違い",
-        "[blu3mo.icon]に教えてもらって、[Limitless Pendant]を買った",
-        ">[https://x.com/0xtkgshn/status/1930595742051438894 @0xtkgshn]: これは間違いなくplaud よりも良いものだと思う @LimitlessAI"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 9,
-      "linked": 0,
-      "created": 1749182262,
-      "updated": 1749227969,
-      "accessed": 1749630473,
-      "linesCount": 44,
-      "charsCount": 1320,
-      "helpfeels": [],
-      "contentText": "Limitless PendantとPlaudの違い from [2025/6/06] Limitless PendantとPlaudの違い に教えてもらって、[Limitless Pendant]を買った",
-      "tags": [
-        "Limitless Pendant"
       ]
     }
   ]
