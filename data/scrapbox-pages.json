@@ -1,6 +1,6 @@
 {
   "project": "tkgshn",
-  "lastUpdated": 1749762381714,
+  "lastUpdated": 1749848764604,
   "pages": [
     {
       "id": "6847da5bc7a27910ef56fc32",
@@ -8,7 +8,7 @@
       "image": "https://gyazo.com/852961acc4dca5565ab54cc0f14bbe07/raw",
       "descriptions": [
         "[public.icon]",
-        "[Arcteryx]の中で[ト���イルランニング]に特化した[Norvan Jacket]",
+        "[Arcteryx]の中で[トレイルランニング]に特化した[Norvan Jacket]",
         "「[gore-tex]の軽量シェル」という扱いになる",
         "軽量ながら、耐水性はちゃんとある",
         "ちゃんとフードにも絞りがついていて、調整可能"
@@ -24,14 +24,14 @@
       "linked": 0,
       "created": 1749195949,
       "updated": 1749537844,
-      "accessed": 1749646677,
+      "accessed": 1749817009,
       "linesCount": 41,
       "charsCount": 807,
       "helpfeels": [],
       "contentText": "Norvan Jacket [Arcteryx]の中で[トレイルランニング]に特化した[Norvan Jacket] 「[gore-tex]の軽量シェル」という扱いになる 軽量ながら、耐水性はちゃんとある",
       "tags": [
         "Arcteryx",
-        "ト���イルランニング",
+        "トレイルランニング",
         "Norvan Jacket",
         "gore-tex"
       ]
@@ -92,7 +92,7 @@
       "linked": 1,
       "created": 1679487148,
       "updated": 1749528587,
-      "accessed": 1749587901,
+      "accessed": 1749778007,
       "linesCount": 21,
       "charsCount": 854,
       "helpfeels": [],
@@ -165,37 +165,6 @@
         "NY生活",
         "citizen",
         "JX通信社"
-      ]
-    },
-    {
-      "id": "684689223d345494839dca53",
-      "title": "beyond ミーティング #67",
-      "image": null,
-      "descriptions": [
-        "[public.icon]",
-        "https://bm67.peatix.com/view",
-        "[beyond ミーティング]",
-        ">[*** ■Beyondミーティングとは？]",
-        "> 社会／地域課題解決や新しい価値創造に挑む人を\"アジェンダオーナー\"と呼び、全力で応援するブレスト作戦会議です。"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 2,
-      "linked": 0,
-      "created": 1749452383,
-      "updated": 1749452625,
-      "accessed": 1749514197,
-      "linesCount": 48,
-      "charsCount": 1501,
-      "helpfeels": [],
-      "contentText": "beyond ミーティング #67 https://bm67.peatix.com/view [beyond ミーティング] >[*** ■Beyondミーティングとは？]",
-      "tags": [
-        "beyond ミーティング"
       ]
     }
   ]
