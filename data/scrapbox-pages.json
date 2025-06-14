@@ -1,6 +1,6 @@
 {
   "project": "tkgshn",
-  "lastUpdated": 1749848764604,
+  "lastUpdated": 1749935141447,
   "pages": [
     {
       "id": "6847da5bc7a27910ef56fc32",
@@ -24,7 +24,7 @@
       "linked": 0,
       "created": 1749195949,
       "updated": 1749537844,
-      "accessed": 1749817009,
+      "accessed": 1749906931,
       "linesCount": 41,
       "charsCount": 807,
       "helpfeels": [],
@@ -131,40 +131,6 @@
       "tags": [
         "自炊を構造主義から学んでいくことで最強になりたい",
         "町屋"
-      ]
-    },
-    {
-      "id": "6847b18d832431a8f8af84c1",
-      "title": "Citizen",
-      "image": null,
-      "descriptions": [
-        "[public.icon]",
-        ">[https://x.com/0xtkgshn/status/1932272857276699064 @0xtkgshn]: Citizensというみんなで事件とか事故の様子をライブストリーミングするアプリがあるのだけど、それが今回のLAの[プロテスト]でかなり活躍したらしく、「世界がやばくなればやばくなるほど価値が出る」アンチフラジャイルな事業ってあるなーと。もはやここに既存メディアは追随出来",
-        "[NY生活]で使っていた",
-        "[citizen]",
-        "[JX通信社]のとりくみにも似ている気がする"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 3,
-      "linked": 0,
-      "created": 1749528266,
-      "updated": 1749528315,
-      "accessed": 1749588946,
-      "linesCount": 10,
-      "charsCount": 266,
-      "helpfeels": [],
-      "contentText": "Citizen >: Citizensというみんなで事件とか事故の様子をライブストリーミングするアプリがあるのだけど、それが今回のLAの[プロテスト]でかなり活躍したらしく、「世界がやばくなればやばくなるほど価値が出る」アンチフラジャイルな事業ってあるなーと。もはやここに既存メディアは追随出来ない。 [NY生活]で使っていた [citizen]",
-      "tags": [
-        "プロテスト",
-        "NY生活",
-        "citizen",
-        "JX通信社"
       ]
     }
   ]
