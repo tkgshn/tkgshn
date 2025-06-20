@@ -1,17 +1,17 @@
 {
   "project": "tkgshn",
-  "lastUpdated": 1750367140521,
+  "lastUpdated": 1750453556182,
   "pages": [
     {
-      "id": "6847da5bc7a27910ef56fc32",
-      "title": "Norvan Jacket",
-      "image": "https://gyazo.com/852961acc4dca5565ab54cc0f14bbe07/raw",
+      "id": "64e2de68dfef3b001b81cc36",
+      "title": "ホームレス生活に移行するためにしたことを大体書く | 初歩からの無職",
+      "image": "https://images.ctfassets.net/73t6m5k7x51e/52ED1vuZLar2bwFtQTM4ZJ/53f6148ae74d28351050fbad7a641e97/homeless-1024x576.jpg#.png",
       "descriptions": [
+        "[ネオホームレスになってみたい]",
         "[public.icon]",
-        "[Arcteryx]の中で[トレイルランニング]に特化した[Norvan Jacket]",
-        "「[gore-tex]の軽量シェル」という扱いになる",
-        "軽量ながら、耐水性はちゃんとある",
-        "ちゃんとフードにも絞りがついていて、調整可能"
+        "[ホームレス生活に移行するためにしたことを大体書く | 初歩からの無職 https://mtane0412.com/shift-to-homeless/]",
+        "[https://images.ctfassets.net/73t6m5k7x51e/52ED1vuZLar2bwFtQTM4ZJ/53f6148ae74d28351050fbad7a641e97/homeless-1024x576.jpg#.png]",
+        "> 路上生活移行メモ"
       ],
       "user": {
         "id": "5b9f8ea76ffa88001309c5f2"
@@ -20,66 +20,29 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 12,
+      "views": 16,
       "linked": 0,
-      "created": 1749195949,
-      "updated": 1749537844,
-      "accessed": 1750054372,
-      "linesCount": 41,
-      "charsCount": 807,
+      "created": 1691560645,
+      "updated": 1750410586,
+      "accessed": 1750422603,
+      "linesCount": 40,
+      "charsCount": 2663,
       "helpfeels": [],
-      "contentText": "Norvan Jacket [Arcteryx]の中で[トレイルランニング]に特化した[Norvan Jacket] 「[gore-tex]の軽量シェル」という扱いになる 軽量ながら、耐水性はちゃんとある",
+      "contentText": "ホームレス生活に移行するためにしたことを大体書く | 初歩からの無職 [ネオホームレスになってみたい] ホームレス生活に移行するためにしたことを大体書く | 初歩からの無職",
       "tags": [
-        "Arcteryx",
-        "トレイルランニング",
-        "Norvan Jacket",
-        "gore-tex"
+        "ネオホームレスになってみたい"
       ]
     },
     {
-      "id": "6847be64c754392790e4f75d",
-      "title": "フレンチのコースを自炊",
-      "image": "https://gyazo.com/ea917687d76b6d442fcc82f6f2fa04b9/raw",
-      "descriptions": [
-        "[public.icon]",
-        "[フランス料理]",
-        ">[https://x.com/0xtkgshn/status/1932034831338410349 @0xtkgshn]: [GPTs]で 「[料理の構造]」botを作ってご飯の構造壁打ちできるのすごすぎる",
-        "[GPTsで「料理の四面体Bot」を作った]",
-        "[https://gyazo.com/ea917687d76b6d442fcc82f6f2fa04b9]"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 7,
-      "linked": 0,
-      "created": 1749528342,
-      "updated": 1749529052,
-      "accessed": 1750034542,
-      "linesCount": 24,
-      "charsCount": 537,
-      "helpfeels": [],
-      "contentText": "フレンチのコースを自炊 [フランス料理] >: [GPTs]で 「[料理の構造]」botを作ってご飯の構造壁打ちできるのすごすぎる [GPTsで「料理の四面体Bot」を作った]",
-      "tags": [
-        "フランス料理",
-        "GPTs",
-        "料理の構造",
-        "GPTsで「料理の四面体Bot」を作った"
-      ]
-    },
-    {
-      "id": "641b540b82f5b0001c429ba4",
-      "title": "ヨーロッパは間違いなく宗教史、建築、哲学などで世界をリードしているけど、今世紀からはアメリカの資本主義と対立している（?）",
+      "id": "67ec552c496a94979c64566c",
+      "title": "海外出張に最軽量で行く場合の荷物",
       "image": null,
       "descriptions": [
         "[public.icon]",
-        "from [ヨーロッパでデモを見て思うこと]",
-        "[ヨーロッパは間違いなく宗教史、建築、哲学などで世界をリードしているけど、今世紀からはアメリカの資本主義と対立している（?）]",
-        "対立ではないのか",
-        "ポジションが違うだけで"
+        "from [台湾0泊出張], [軽量化]",
+        "[海外出張]に最軽量で行く場合の荷物",
+        "小さめのカバン+ビニール袋（捨てれる、軽い、折りたたみ）が最強",
+        "→どうせならと、[ダイニーマのビニール袋]を買った[tkgshn.icon]"
       ],
       "user": {
         "id": "5b9f8ea76ffa88001309c5f2"
@@ -88,17 +51,83 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 8,
-      "linked": 1,
-      "created": 1679487148,
-      "updated": 1749528587,
-      "accessed": 1750179312,
-      "linesCount": 21,
-      "charsCount": 854,
+      "views": 13,
+      "linked": 0,
+      "created": 1743505169,
+      "updated": 1750408444,
+      "accessed": 1750429002,
+      "linesCount": 56,
+      "charsCount": 1149,
       "helpfeels": [],
-      "contentText": "ヨーロッパは間違いなく宗教史、建築、哲学などで世界をリードしているけど、今世紀からはアメリカの資本主義と対立している（?） from [ヨーロッパでデモを見て思うこと] 対立ではないのか",
+      "contentText": "海外出張に最軽量で行く場合の荷物 from [台湾0泊出張], [軽量化] [海外出張]に最軽量で行く場合の荷物 小さめのカバン+ビニール袋（捨てれる、軽い、折りたたみ）が最強",
       "tags": [
-        "ヨーロッパでデモを見て思うこと"
+        "台湾0泊出張",
+        "軽量化",
+        "海外出張",
+        "ダイニーマのビニール袋"
+      ]
+    },
+    {
+      "id": "641b540a82f5b0001c429afa",
+      "title": "2023/3/11 ロンドン最終日での荷物振り返り",
+      "image": "https://gyazo.com/177d86fe24bafe5dd1aaceddd46ca92f/raw",
+      "descriptions": [
+        "[public.icon]",
+        "from [2023/3/11]",
+        "2023/3/11 [ロンドン]最終日での荷物振り返り",
+        "日本→コロンビア→ニューヨーク→デンバーを経て、ロンドンにいる",
+        "明日の夕方には[Amsterdam]に移動しなきゃいけない"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 24,
+      "linked": 0,
+      "created": 1678560160,
+      "updated": 1750408383,
+      "accessed": 1750428993,
+      "linesCount": 62,
+      "charsCount": 1489,
+      "helpfeels": [],
+      "contentText": "2023/3/11 ロンドン最終日での荷物振り返り from [2023/3/11] 2023/3/11 [ロンドン]最終日での荷物振り返り 日本→コロンビア→ニューヨーク→デンバーを経て、ロンドンにいる",
+      "tags": [
+        "ロンドン",
+        "Amsterdam"
+      ]
+    },
+    {
+      "id": "63cd92750a0841001dc75a5f",
+      "title": "mophie 3-in-1 travel charger",
+      "image": "https://gyazo.com/2651b878ca8c90ee72e4e77934cba30c/raw",
+      "descriptions": [
+        "[public.icon]",
+        "[本当に買ってよかったもの]",
+        "あーこれのアップデートなのか[tkgshn.icon*3]",
+        "[https://gyazo.com/2651b878ca8c90ee72e4e77934cba30c]",
+        "https://www.apple.com/jp/shop/product/HPTA2ZM/A/mophie-3-in-1-travel-chargermagsafe対応"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 27,
+      "linked": 1,
+      "created": 1647685258,
+      "updated": 1750408062,
+      "accessed": 1750024213,
+      "linesCount": 14,
+      "charsCount": 252,
+      "helpfeels": [],
+      "contentText": "mophie 3-in-1 travel charger [本当に買ってよかったもの] あーこれのアップデートなのか",
+      "tags": [
+        "本当に買ってよかったもの"
       ]
     }
   ]
