@@ -1,17 +1,17 @@
 {
   "project": "tkgshn",
-  "lastUpdated": 1750626329033,
+  "lastUpdated": 1750712784299,
   "pages": [
     {
-      "id": "64e2de68dfef3b001b81cc36",
-      "title": "ホームレス生活に移行するためにしたことを大体書く | 初歩からの無職",
-      "image": "https://images.ctfassets.net/73t6m5k7x51e/52ED1vuZLar2bwFtQTM4ZJ/53f6148ae74d28351050fbad7a641e97/homeless-1024x576.jpg#.png",
+      "id": "6185d65d2c2ce6001d0840af",
+      "title": "旅行時に何を持っていくか",
+      "image": null,
       "descriptions": [
-        "[ネオホームレスになってみたい]",
         "[public.icon]",
-        "[ホームレス生活に移行するためにしたことを大体書く | 初歩からの無職 https://mtane0412.com/shift-to-homeless/]",
-        "[https://images.ctfassets.net/73t6m5k7x51e/52ED1vuZLar2bwFtQTM4ZJ/53f6148ae74d28351050fbad7a641e97/homeless-1024x576.jpg#.png]",
-        "> 路上生活移行メモ"
+        "[2021/11/2 伊豆に行った]で痛感した、持っていくべきものリスト",
+        "[* 持っていったもので、よかったもの]",
+        "☑️ [AirPods]",
+        "[- ☑️ [WH-1000XM3]]"
       ],
       "user": {
         "id": "5b9f8ea76ffa88001309c5f2"
@@ -20,17 +20,54 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 19,
+      "views": 54,
       "linked": 0,
-      "created": 1691560645,
-      "updated": 1750410586,
-      "accessed": 1750515341,
-      "linesCount": 40,
-      "charsCount": 2663,
+      "created": 1636094177,
+      "updated": 1750666761,
+      "accessed": 1750706118,
+      "linesCount": 44,
+      "charsCount": 1019,
       "helpfeels": [],
-      "contentText": "ホームレス生活に移行するためにしたことを大体書く | 初歩からの無職 [ネオホームレスになってみたい] ホームレス生活に移行するためにしたことを大体書く | 初歩からの無職",
+      "contentText": "旅行時に何を持っていくか [2021/11/2 伊豆に行った]で痛感した、持っていくべきものリスト [* 持っていったもので、よかったもの] ☑️ [AirPods]",
       "tags": [
-        "ネオホームレスになってみたい"
+        "AirPods",
+        "- ☑️ [WH-1000XM3"
+      ]
+    },
+    {
+      "id": "63cd92750a0841001dc75a90",
+      "title": "遊牧民知見",
+      "image": "https://gyazo.com/763789770d6ddbb556d2340b090fea8a/raw",
+      "descriptions": [
+        "[public.icon]",
+        ">[https://twitter.com/0xtkgshn/status/1633069758873518081?s=20 @0xtkgshn]: [nomad]はなかなむずい。例えば、一瞬だけ日本大使館経由で日本国籍の人でも[Global Entry]の登録ができたとか、その時にやってたら入出国めっちゃ簡単とか、アメリカにいる時に[Google Fi]と[CLEAR]を契約してたらだいぶ楽とか",
+        "3ヶ月以上滞在する予定ならその場所で[アーロンチェア]みたいなのを中古で買うという選択肢はあると思う",
+        "なるべく[リセールバリュー]がつくやつだと、割と快適に生活できるんじゃないか",
+        "これは今でも同じ意見かな[tkgshn.icon*3]"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 57,
+      "linked": 1,
+      "created": 1670118742,
+      "updated": 1750666681,
+      "accessed": 1750681318,
+      "linesCount": 182,
+      "charsCount": 5260,
+      "helpfeels": [],
+      "contentText": "遊牧民知見 >: [nomad]はなかなむずい。例えば、一瞬だけ日本大使館経由で日本国籍の人でも[Global Entry]の登録ができたとか、その時にやってたら入出国めっちゃ簡単とか、アメリカにいる時に[Google Fi]と[CLEAR]を契約してたらだいぶ楽とか、[AMEX]のカード使ってる場合のみ[Credit Score]をUS Amexに移せるとか… 3ヶ月以上滞在する予定ならその場所…",
+      "tags": [
+        "nomad",
+        "Global Entry",
+        "Google Fi",
+        "CLEAR",
+        "アーロンチェア",
+        "リセールバリュー"
       ]
     },
     {
@@ -51,13 +88,13 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 14,
+      "views": 18,
       "linked": 0,
       "created": 1743505169,
-      "updated": 1750408444,
-      "accessed": 1750429002,
+      "updated": 1750656844,
+      "accessed": 1750689887,
       "linesCount": 56,
-      "charsCount": 1149,
+      "charsCount": 1206,
       "helpfeels": [],
       "contentText": "海外出張に最軽量で行く場合の荷物 from [台湾0泊出張], [軽量化] [海外出張]に最軽量で行く場合の荷物 小さめのカバン+ビニール袋（捨てれる、軽い、折りたたみ）が最強",
       "tags": [
@@ -65,69 +102,6 @@
         "軽量化",
         "海外出張",
         "ダイニーマのビニール袋"
-      ]
-    },
-    {
-      "id": "641b540a82f5b0001c429afa",
-      "title": "2023/3/11 ロンドン最終日での荷物振り返り",
-      "image": "https://gyazo.com/177d86fe24bafe5dd1aaceddd46ca92f/raw",
-      "descriptions": [
-        "[public.icon]",
-        "from [2023/3/11]",
-        "2023/3/11 [ロンドン]最終日での荷物振り返り",
-        "日本→コロンビア→ニューヨーク→デンバーを経て、ロンドンにいる",
-        "明日の夕方には[Amsterdam]に移動しなきゃいけない"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 25,
-      "linked": 0,
-      "created": 1678560160,
-      "updated": 1750408383,
-      "accessed": 1750428993,
-      "linesCount": 62,
-      "charsCount": 1489,
-      "helpfeels": [],
-      "contentText": "2023/3/11 ロンドン最終日での荷物振り返り from [2023/3/11] 2023/3/11 [ロンドン]最終日での荷物振り返り 日本→コロンビア→ニューヨーク→デンバーを経て、ロンドンにいる",
-      "tags": [
-        "ロンドン",
-        "Amsterdam"
-      ]
-    },
-    {
-      "id": "63cd92750a0841001dc75a5f",
-      "title": "mophie 3-in-1 travel charger",
-      "image": "https://gyazo.com/2651b878ca8c90ee72e4e77934cba30c/raw",
-      "descriptions": [
-        "[public.icon]",
-        "[本当に買ってよかったもの]",
-        "あーこれのアップデートなのか[tkgshn.icon*3]",
-        "[https://gyazo.com/2651b878ca8c90ee72e4e77934cba30c]",
-        "https://www.apple.com/jp/shop/product/HPTA2ZM/A/mophie-3-in-1-travel-chargermagsafe対応"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 27,
-      "linked": 1,
-      "created": 1647685258,
-      "updated": 1750408062,
-      "accessed": 1750024213,
-      "linesCount": 14,
-      "charsCount": 252,
-      "helpfeels": [],
-      "contentText": "mophie 3-in-1 travel charger [本当に買ってよかったもの] あーこれのアップデートなのか",
-      "tags": [
-        "本当に買ってよかったもの"
       ]
     }
   ]
