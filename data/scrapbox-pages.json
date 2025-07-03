@@ -1,7 +1,160 @@
 {
   "project": "tkgshn",
-  "lastUpdated": 1751490376835,
+  "lastUpdated": 1751576764577,
   "pages": [
+    {
+      "id": "6865fa05a82754c7587335e8",
+      "title": "MacでWhisperAXを使って数時間にわたる会議音声を文字起こしする",
+      "image": "https://gyazo.com/2abea8379e9e747347184148c981dc04/raw",
+      "descriptions": [
+        "[public.icon]",
+        "from [2025/7/8 構想日本MTG]",
+        "タイトルは「Macで」となっているが、理論上はスマホでも使える",
+        "スペック次第かなぁ[tkgshn.icon*2]",
+        "Macで[WhisperAX]を使って会議音声を文字起こしする"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 2,
+      "linked": 0,
+      "created": 1751511011,
+      "updated": 1751511119,
+      "accessed": 1751528021,
+      "linesCount": 25,
+      "charsCount": 582,
+      "helpfeels": [],
+      "contentText": "MacでWhisperAXを使って数時間にわたる会議音声を文字起こしする from [2025/7/8 構想日本MTG] タイトルは「Macで」となっているが、理論上はスマホでも使える スペック次第かなぁ",
+      "tags": [
+        "WhisperAX"
+      ]
+    },
+    {
+      "id": "6865fa05a82754c7587335e4",
+      "title": "WhisperAX",
+      "image": null,
+      "descriptions": [
+        "[public.icon]",
+        "[オフラインでWhisper（文字起こし）を動かす]"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 0,
+      "linked": 0,
+      "created": 1751510952,
+      "updated": 1751510958,
+      "accessed": 1751569538,
+      "linesCount": 4,
+      "charsCount": 49,
+      "helpfeels": [],
+      "contentText": "WhisperAX [オフラインでWhisper（文字起こし）を動かす]",
+      "tags": [
+        "オフラインでWhisper（文字起こし）を動かす"
+      ]
+    },
+    {
+      "id": "6865fa05a82754c758733555",
+      "title": "バックが\"完全\"防水である必要はない",
+      "image": null,
+      "descriptions": [
+        "[public.icon]",
+        "結局、ライナーを使う",
+        "バックインバックを防水にしてしまえばいいだけの話",
+        "ある程度水に強い素材であることは必然的に取捨選択すればなる気がする",
+        "[backpack]"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 4,
+      "linked": 0,
+      "created": 1750833721,
+      "updated": 1751510584,
+      "accessed": 1751537639,
+      "linesCount": 9,
+      "charsCount": 111,
+      "helpfeels": [],
+      "contentText": "バックが\"完全\"防水である必要はない 結局、ライナーを使う バックインバックを防水にしてしまえばいいだけの話 ある程度水に強い素材であることは必然的に取捨選択すればなる気がする",
+      "tags": [
+        "backpack"
+      ]
+    },
+    {
+      "id": "6865fa05a82754c758733596",
+      "title": "硬くならないセームタオル",
+      "image": null,
+      "descriptions": [
+        "[public.icon]",
+        "[Speedoセームタオル]からこっちへ変更",
+        "十分に身体を拭き取ることができる",
+        "[finetrack] [ナノハンカチ]とコンビ"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 7,
+      "linked": 0,
+      "created": 1751254950,
+      "updated": 1751510570,
+      "accessed": 1751537836,
+      "linesCount": 6,
+      "charsCount": 89,
+      "helpfeels": [],
+      "contentText": "硬くならないセームタオル [Speedoセームタオル]からこっちへ変更 十分に身体を拭き取ることができる [finetrack] [ナノハンカチ]とコンビ",
+      "tags": [
+        "Speedoセームタオル",
+        "finetrack",
+        "ナノハンカチ"
+      ]
+    },
+    {
+      "id": "6865fa05a82754c758733599",
+      "title": "ビクトリノックスのジェットセッターですら捨てられる",
+      "image": null,
+      "descriptions": [
+        "[public.icon]",
+        "[機内持ち込み]",
+        "今まで3回ぐらい捨てられた",
+        "「類似品」扱いらしい",
+        "持っていた機能:"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 8,
+      "linked": 0,
+      "created": 1751255784,
+      "updated": 1751510565,
+      "accessed": 1751537744,
+      "linesCount": 22,
+      "charsCount": 280,
+      "helpfeels": [],
+      "contentText": "ビクトリノックスのジェットセッターですら捨てられる [機内持ち込み] 今まで3回ぐらい捨てられた 「類似品」扱いらしい",
+      "tags": [
+        "機内持ち込み"
+      ]
+    },
     {
       "id": "682f301fa04df5d358b679bf",
       "title": "軽量化",
@@ -24,7 +177,7 @@
       "linked": 0,
       "created": 1747919849,
       "updated": 1751267785,
-      "accessed": 1751441063,
+      "accessed": 1751528045,
       "linesCount": 46,
       "charsCount": 1058,
       "helpfeels": [],
@@ -61,38 +214,6 @@
       "tags": [
         "Cluely",
         "Xiaomi AI Glass"
-      ]
-    },
-    {
-      "id": "685feaabcaeb61e867bf8afa",
-      "title": "マイナ免許証読み取りアプリ",
-      "image": "https://gyazo.com/fb42c0ff17e680f4492195ea5509b36b/raw",
-      "descriptions": [
-        "[public.icon]",
-        "from [免許証とマイナンバーカードを連携する]",
-        "[マイナ免許証]読み取りアプリ",
-        "https://myna-menkyo-app.npa.go.jp/",
-        "[https://gyazo.com/fb42c0ff17e680f4492195ea5509b36b]"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 0,
-      "linked": 0,
-      "created": 1751115695,
-      "updated": 1751115726,
-      "accessed": 1751346629,
-      "linesCount": 9,
-      "charsCount": 197,
-      "helpfeels": [],
-      "contentText": "マイナ免許証読み取りアプリ from [免許証とマイナンバーカードを連携する] [マイナ免許証]読み取りアプリ https://myna-menkyo-app.npa.go.jp/",
-      "tags": [
-        "免許証とマイナンバーカードを連携する",
-        "マイナ免許証"
       ]
     }
   ]
