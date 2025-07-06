@@ -1,7 +1,38 @@
 {
   "project": "tkgshn",
-  "lastUpdated": 1751749574592,
+  "lastUpdated": 1751835931709,
   "pages": [
+    {
+      "id": "686a2110fbf9a1d9c33f330f",
+      "title": "NOMIN PACK",
+      "image": "https://gyazo.com/774c59e66fb7ae08bccf07fae6580ff2/raw",
+      "descriptions": [
+        "[public.icon]",
+        "[Arcteryx]",
+        "https://x.com/search?q=nomin%20pack&src=typed_query",
+        "[https://arcteryx.jp/pages/veilance-features-nomin VEILANCE Pack特集 | ARC'TERYX – アークテリクス – アークテリクス公式オンラインストア]",
+        "[https://gyazo.com/774c59e66fb7ae08bccf07fae6580ff2] [https://gyazo.com/357d781dd8b57a4c988515de6e97bcda] [https://gyazo.com/486b2bbbe30d6a3d4917fb9ef59eb043]"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 7,
+      "linked": 0,
+      "created": 1733369868,
+      "updated": 1751784100,
+      "accessed": 1751810283,
+      "linesCount": 29,
+      "charsCount": 943,
+      "helpfeels": [],
+      "contentText": "NOMIN PACK [Arcteryx] https://x.com/search?q=nomin%20pack&src=typed_query",
+      "tags": [
+        "Arcteryx"
+      ]
+    },
     {
       "id": "6865fa05a82754c7587335e8",
       "title": "MacでWhisperAXを使って数時間にわたる会議音声を文字起こしする",
@@ -24,7 +55,7 @@
       "linked": 0,
       "created": 1751511011,
       "updated": 1751511119,
-      "accessed": 1751698953,
+      "accessed": 1751810502,
       "linesCount": 25,
       "charsCount": 582,
       "helpfeels": [],
@@ -83,7 +114,7 @@
       "linked": 0,
       "created": 1750833721,
       "updated": 1751510584,
-      "accessed": 1751651456,
+      "accessed": 1751794533,
       "linesCount": 9,
       "charsCount": 111,
       "helpfeels": [],
@@ -109,11 +140,11 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 7,
+      "views": 8,
       "linked": 0,
       "created": 1751254950,
       "updated": 1751510570,
-      "accessed": 1751695384,
+      "accessed": 1751834182,
       "linesCount": 6,
       "charsCount": 89,
       "helpfeels": [],
@@ -146,7 +177,7 @@
       "linked": 0,
       "created": 1751255784,
       "updated": 1751510565,
-      "accessed": 1751695381,
+      "accessed": 1751759128,
       "linesCount": 22,
       "charsCount": 280,
       "helpfeels": [],
@@ -173,7 +204,7 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 23,
+      "views": 24,
       "linked": 0,
       "created": 1747919849,
       "updated": 1751267785,
