@@ -1,7 +1,176 @@
 {
   "project": "tkgshn",
-  "lastUpdated": 1751835931709,
+  "lastUpdated": 1751922375087,
   "pages": [
+    {
+      "id": "686b653d0e2089f58484f7bf",
+      "title": "チームみらいに対する「テクノリバタリアン」という批判は少し的を得ていない。重要なのは信頼できる中立性だ",
+      "image": null,
+      "descriptions": [
+        "[public.icon]",
+        "ref: [中央集権の3つの軸]",
+        "チームみらいの組織体系はどれほど分散しているか？",
+        "人間が分散しているか？",
+        "[安野たかひろ]一人に依存していないか?"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 5,
+      "linked": 0,
+      "created": 1751867938,
+      "updated": 1751874735,
+      "accessed": 1751907582,
+      "linesCount": 23,
+      "charsCount": 377,
+      "helpfeels": [],
+      "contentText": "チームみらいに対する「テクノリバタリアン」という批判は少し的を得ていない。重要なのは信頼できる中立性だ ref: [中央集権の3つの軸] チームみらいの組織体系はどれほど分散しているか？ 人間が分散しているか？",
+      "tags": [
+        "中央集権の3つの軸",
+        "安野たかひろ"
+      ]
+    },
+    {
+      "id": "686b5724e2cb48b59ed25e63",
+      "title": "メカニズムをデザインすることをガバナンスと言おう、選挙のことはどっちでもいい",
+      "image": "https://gyazo.com/43b2b391134c6a549161d83cc23aab02/raw",
+      "descriptions": [
+        "[public.icon]",
+        "「民主主義」「政治」と聞いた時にほとんどの人が想像することと、[tkgshn.icon]がやろうとしている「ガバナンス・統治」の違いをメモっておく",
+        "[tkgshn.icon]は、（[エドマンドバーグ]的な）\"[action]\"としてこの活動をしている",
+        "1. 元々は[DeCartography]というクリプトプロジェクトをやっていた",
+        "[違いを力に変える]ために、[cocm QF]のためのインフラ（[分散型ソーシャルグラフ]）を作っていた"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 5,
+      "linked": 0,
+      "created": 1751862798,
+      "updated": 1751873860,
+      "accessed": 1751865124,
+      "linesCount": 82,
+      "charsCount": 2659,
+      "helpfeels": [],
+      "contentText": "メカニズムをデザインすることをガバナンスと言おう、選挙のことはどっちでもいい 「民主主義」「政治」と聞いた時にほとんどの人が想像することと、がやろうとしている「ガバナンス・統治」の違いをメモっておく は、（[エドマンドバーグ]的な）\"[action]\"としてこの活動をしている 1. 元々は[DeCartography]というクリプトプロジェクトをやっていた",
+      "tags": [
+        "エドマンドバーグ",
+        "action",
+        "DeCartography",
+        "違いを力に変える",
+        "cocm QF",
+        "分散型ソーシャルグラフ"
+      ]
+    },
+    {
+      "id": "686b56eee2cb48b59ed204cc",
+      "title": "「正統性（Legitimacy）」という概念",
+      "image": "https://gyazo.com/492e6b0255e7febdb13df125e2bd1d2c/raw",
+      "descriptions": [
+        "[public.icon]",
+        "関連概念: [responsibility], [acountdability], [統治技術]",
+        "ここ半年ぐらい、[正統性]（[Legitimacy]）という言葉を知ってからの世界の見え方が面白い",
+        "ちなみに「正当性」とは別の概念",
+        "https://synodos.jp/opinion/politics/1645/"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 48,
+      "linked": 0,
+      "created": 1677876423,
+      "updated": 1751863762,
+      "accessed": 1751886093,
+      "linesCount": 143,
+      "charsCount": 7123,
+      "helpfeels": [],
+      "contentText": "「正統性（Legitimacy）」という概念 関連概念: [responsibility], [acountdability], [統治技術] ここ半年ぐらい、[正統性]（[Legitimacy]）という言葉を知ってからの世界の見え方が面白い ちなみに「正当性」とは別の概念",
+      "tags": [
+        "responsibility",
+        "acountdability",
+        "統治技術",
+        "正統性",
+        "Legitimacy"
+      ]
+    },
+    {
+      "id": "683ab97773866b9471d5d1d3",
+      "title": "日本のデジタル民主主義界隈で今何が起こっているのか",
+      "image": null,
+      "descriptions": [
+        "[public.icon]",
+        "[メカニズムをデザインすることをガバナンスと言おう、選挙のことはどっちでもいい]",
+        "LLM以前の世界",
+        "[polis]",
+        "[decidim]"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 29,
+      "linked": 0,
+      "created": 1748672618,
+      "updated": 1751862794,
+      "accessed": 1751186735,
+      "linesCount": 90,
+      "charsCount": 2949,
+      "helpfeels": [],
+      "contentText": "日本のデジタル民主主義界隈で今何が起こっているのか [メカニズムをデザインすることをガバナンスと言おう、選挙のことはどっちでもいい] LLM以前の世界 [polis]",
+      "tags": [
+        "polis",
+        "decidim"
+      ]
+    },
+    {
+      "id": "648d5fbf1a4989001b474557",
+      "title": "「機関（institution）」という概念ついて（Authority, Creditable Neutralityを含む）",
+      "image": "https://gyazo.com/8f58e1902c0199549c9b25a95334409a/raw",
+      "descriptions": [
+        "[public.icon]",
+        "from [2023/6/17]",
+        "「機関（[institution]）」という概念ついて（[Authority], [Credible Neutrality]を含む）",
+        "関連: [「正統性（Legitimacy）」という概念]",
+        "有名なやつ: [Credible Neutrality As A Guiding Principle]"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 14,
+      "linked": 0,
+      "created": 1686982068,
+      "updated": 1751860961,
+      "accessed": 1748558639,
+      "linesCount": 42,
+      "charsCount": 1012,
+      "helpfeels": [],
+      "contentText": "「機関（institution）」という概念ついて（Authority, Creditable Neutralityを含む） from [2023/6/17] 「機関（[institution]）」という概念ついて（[Authority], [Credible Neutrality]を含む） 関連: [「正統性（Legitimacy）」という概念]",
+      "tags": [
+        "institution",
+        "Authority",
+        "Credible Neutrality",
+        "「正統性（Legitimacy）」という概念"
+      ]
+    },
     {
       "id": "686a2110fbf9a1d9c33f330f",
       "title": "NOMIN PACK",
@@ -24,7 +193,7 @@
       "linked": 0,
       "created": 1733369868,
       "updated": 1751784100,
-      "accessed": 1751810283,
+      "accessed": 1751875794,
       "linesCount": 29,
       "charsCount": 943,
       "helpfeels": [],
@@ -121,130 +290,6 @@
       "contentText": "バックが\"完全\"防水である必要はない 結局、ライナーを使う バックインバックを防水にしてしまえばいいだけの話 ある程度水に強い素材であることは必然的に取捨選択すればなる気がする",
       "tags": [
         "backpack"
-      ]
-    },
-    {
-      "id": "6865fa05a82754c758733596",
-      "title": "硬くならないセームタオル",
-      "image": null,
-      "descriptions": [
-        "[public.icon]",
-        "[Speedoセームタオル]からこっちへ変更",
-        "十分に身体を拭き取ることができる",
-        "[finetrack] [ナノハンカチ]とコンビ"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 8,
-      "linked": 0,
-      "created": 1751254950,
-      "updated": 1751510570,
-      "accessed": 1751834182,
-      "linesCount": 6,
-      "charsCount": 89,
-      "helpfeels": [],
-      "contentText": "硬くならないセームタオル [Speedoセームタオル]からこっちへ変更 十分に身体を拭き取ることができる [finetrack] [ナノハンカチ]とコンビ",
-      "tags": [
-        "Speedoセームタオル",
-        "finetrack",
-        "ナノハンカチ"
-      ]
-    },
-    {
-      "id": "6865fa05a82754c758733599",
-      "title": "ビクトリノックスのジェットセッターですら捨てられる",
-      "image": null,
-      "descriptions": [
-        "[public.icon]",
-        "[機内持ち込み]",
-        "今まで3回ぐらい捨てられた",
-        "「類似品」扱いらしい",
-        "持っていた機能:"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 8,
-      "linked": 0,
-      "created": 1751255784,
-      "updated": 1751510565,
-      "accessed": 1751759128,
-      "linesCount": 22,
-      "charsCount": 280,
-      "helpfeels": [],
-      "contentText": "ビクトリノックスのジェットセッターですら捨てられる [機内持ち込み] 今まで3回ぐらい捨てられた 「類似品」扱いらしい",
-      "tags": [
-        "機内持ち込み"
-      ]
-    },
-    {
-      "id": "682f301fa04df5d358b679bf",
-      "title": "軽量化",
-      "image": "https://gyazo.com/665ca31c5527731913f218f0d13473c4/raw",
-      "descriptions": [
-        "[public.icon]",
-        "[2025/5/28] これで[2025/6/12~20 上海]も行こうと思う[tkgshn.icon]",
-        "https://gemini.google.com/u/0/app/d1cecf5344073779?hl=ja&pli=1",
-        "[Gemini.icon]とチャットしてツールを作った",
-        "[ChatGPT.icon]よりも賢い"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 24,
-      "linked": 0,
-      "created": 1747919849,
-      "updated": 1751267785,
-      "accessed": 1751721987,
-      "linesCount": 46,
-      "charsCount": 1058,
-      "helpfeels": [],
-      "contentText": "軽量化 [2025/5/28] これで[2025/6/12~20 上海]も行こうと思う https://gemini.google.com/u/0/app/d1cecf5344073779?hl=ja&pli=1 とチャットしてツールを作った",
-      "tags": []
-    },
-    {
-      "id": "686006517f1b50f78c9b3488",
-      "title": "Cluelyは正しい未来な気がする",
-      "image": null,
-      "descriptions": [
-        "[public.icon]",
-        "from [2025/6/28]",
-        "[Cluely]は正しい未来な気がする",
-        "https://x.com/im_roy_lee/status/1938718987975827651",
-        "[Xiaomi AI Glass]とかもそっちの方に進む気がする"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 9,
-      "linked": 0,
-      "created": 1751120759,
-      "updated": 1751121977,
-      "accessed": 1751443884,
-      "linesCount": 28,
-      "charsCount": 755,
-      "helpfeels": [],
-      "contentText": "Cluelyは正しい未来な気がする from [2025/6/28] [Cluely]は正しい未来な気がする https://x.com/im_roy_lee/status/1938718987975827651",
-      "tags": [
-        "Cluely",
-        "Xiaomi AI Glass"
       ]
     }
   ]
