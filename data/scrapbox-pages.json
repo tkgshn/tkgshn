@@ -1,6 +1,6 @@
 {
   "project": "tkgshn",
-  "lastUpdated": 1752008791206,
+  "lastUpdated": 1752095180730,
   "pages": [
     {
       "id": "686b653d0e2089f58484f7bf",
@@ -24,7 +24,7 @@
       "linked": 0,
       "created": 1751867938,
       "updated": 1751874735,
-      "accessed": 1751987429,
+      "accessed": 1752071195,
       "linesCount": 23,
       "charsCount": 377,
       "helpfeels": [],
@@ -69,35 +69,6 @@
         "cocm QF",
         "分散型ソーシャルグラフ"
       ]
-    },
-    {
-      "id": "686b653d0e2089f58484f7bc",
-      "title": "政府統計、形式統一の新データベースに　地図���グラフの表示機能も - 日本経済新聞",
-      "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO6605399030062025000000-1.jpg?auto=format&bg=FFFF&crop=focalpoint&fit=crop&fp-x=0.76&fp-y=0.2&h=630&w=1200&s=dfda15af8d91c526d933b13cebdc05bb#.png",
-      "descriptions": [
-        "[政府統計、形式統一の新データベースに　地図やグラフの表示機能も - 日本経済新聞 https://www.nikkei.com/article/DGXZQOUA302ZJ0Q5A630C2000000/]",
-        "[https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO6605399030062025000000-1.jpg?auto=format&bg=FFFF&crop=focalpoint&fit=crop&fp-x=0.76&fp-y=0.2&h=630&w=1200&s=dfda15af8d91c5",
-        "> 政府は月内に省庁をまたいで各種統計を一元的に扱うデータベース（DB）を立ち上げる。教育や社会保障など計700ほどの行政データを統一した形式で公開し、複数の統計を比較、分析できる機能を付ける。地図やグラフで数値を表示する仕組みも取り入れる。デジタル庁のウェブサイトに「ジャパンダッシュボード」と名付け、様々な政府統計を無料で閲覧できるようにする。政府内で省庁をまたいだ政策の立案などを進める際に活",
-        "[2025/7/7]",
-        "[public.icon]"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 1,
-      "linked": 0,
-      "created": 1751867120,
-      "updated": 1751867120,
-      "accessed": 1751886100,
-      "linesCount": 11,
-      "charsCount": 822,
-      "helpfeels": [],
-      "contentText": "ページの内容を取得できませんでした",
-      "tags": []
     },
     {
       "id": "686b56eee2cb48b59ed204cc",
@@ -173,7 +144,7 @@
       "descriptions": [
         "[public.icon]",
         "from [2023/6/17]",
-        "「機関（[institution]）」という概念ついて（[Authority], [Credible Neutrality]を含む��",
+        "「機関（[institution]）」という概念ついて（[Authority], [Credible Neutrality]を含む）",
         "関連: [「正統性（Legitimacy）」という概念]",
         "有名なやつ: [Credible Neutrality As A Guiding Principle]"
       ],
