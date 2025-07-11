@@ -1,7 +1,143 @@
 {
   "project": "tkgshn",
-  "lastUpdated": 1752181584353,
+  "lastUpdated": 1752267961755,
   "pages": [
+    {
+      "id": "6870e2fb9d6a1b7569dc00ea",
+      "title": "行政が事業委託先の選定にfutarchyを使う",
+      "image": "https://gyazo.com/7a9a8654feb0dfcc5c5c9495cd370d89/raw",
+      "descriptions": [
+        "[public.icon]",
+        "[Futarchy], [公共調達]",
+        "demo: https://web-eight-lilac-71.vercel.app/market/mirai-6",
+        "[予算1億円で東京都23区「低所得単身世帯」の社会保障捕捉率を上げる]",
+        "[https://gyazo.com/7a9a8654feb0dfcc5c5c9495cd370d89]"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 3,
+      "linked": 0,
+      "created": 1752226268,
+      "updated": 1752226420,
+      "accessed": 1752248115,
+      "linesCount": 10,
+      "charsCount": 286,
+      "helpfeels": [],
+      "contentText": "行政が事業委託先の選定にfutarchyを使う [Futarchy], [公共調達] demo: https://web-eight-lilac-71.vercel.app/market/mirai-6 [予算1億円で東京都23区「低所得単身世帯」の社会保障捕捉率を上げる]",
+      "tags": [
+        "Futarchy",
+        "公共調達"
+      ]
+    },
+    {
+      "id": "686b5724e2cb48b59ed25e63",
+      "title": "メカニズムをデザインすることをガバナンスと言おう、選挙のことはどっちでもいい",
+      "image": null,
+      "descriptions": [
+        "[public.icon]",
+        "「民主主義」「政治」と聞いた時にほとんどの人が想像することと、[tkgshn.icon]がやろうとしている「ガバナンス・統治」の違いをメモっておく",
+        "[tkgshn.icon]は、（[エドマンドバーグ]的な）\"[action]\"としてこの活動をしている",
+        "1. 元々は[DeCartography]というクリプトプロジェクトをやっていた",
+        "[違いを力に変える]ために、[cocm QF]のためのインフラ（[分散型ソーシャルグラフ]）を作っていた"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 12,
+      "linked": 0,
+      "created": 1751862798,
+      "updated": 1752226412,
+      "accessed": 1752248134,
+      "linesCount": 81,
+      "charsCount": 2585,
+      "helpfeels": [],
+      "contentText": "メカニズムをデザインすることをガバナンスと言おう、選挙のことはどっちでもいい 「民主主義」「政治」と聞いた時にほとんどの人が想像することと、がやろうとしている「ガバナンス・統治」の違いをメモっておく は、（[エドマンドバーグ]的な）\"[action]\"としてこの活動をしている 1. 元々は[DeCartography]というクリプトプロジェクトをやっていた",
+      "tags": [
+        "エドマンドバーグ",
+        "action",
+        "DeCartography",
+        "違いを力に変える",
+        "cocm QF",
+        "分散型ソーシャルグラフ"
+      ]
+    },
+    {
+      "id": "6870e2fb9d6a1b7569dc00e7",
+      "title": "Futarchyは単独でやりたいと思ってもできない・一緒にやるガバナンスを持つ主体とやるのが良さそう",
+      "image": null,
+      "descriptions": [
+        "[public.icon]",
+        "futarchyはガバナンスのメカニズムなので、[Polymarket]のような予測市場プラットフォームとは違い、ガバナンスを実行する主体との[bizdev]が必要という認識",
+        "実際、すでにfutarchyを実施しているethreumプロジェクトを見ると、[MetaDAO]は[launchpad]と組み合わせて[最初からfutarchyを前提とするDAO]を作る方に振った",
+        "[butter]は[optimism]とのBizDevをめっちゃやっている",
+        "これを見ると、[メカニズムをデザインすることをガバナンスと言おう、選挙のことはどっちでもいい#686b5e090000000000166db2]にあるように、外部の組織とやるのが良さそう"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 7,
+      "linked": 0,
+      "created": 1752225060,
+      "updated": 1752226047,
+      "accessed": 1752228603,
+      "linesCount": 10,
+      "charsCount": 384,
+      "helpfeels": [],
+      "contentText": "Futarchyは単独でやりたいと思ってもできない・一緒にやるガバナンスを持つ主体とやるのが良さそう futarchyはガバナンスのメカニズムなので、[Polymarket]のような予測市場プラットフォームとは違い、ガバナンスを実行する主体との[bizdev]が必要という認識 実際、すでにfutarchyを実施しているethreumプロジェクトを見ると、[MetaDAO]は[launchpad]と…",
+      "tags": [
+        "Polymarket",
+        "bizdev",
+        "MetaDAO",
+        "launchpad",
+        "最初からfutarchyを前提とするDAO",
+        "butter",
+        "optimism"
+      ]
+    },
+    {
+      "id": "6870e2f79d6a1b7569dbfafd",
+      "title": "MetaDAOはFutarchyでの指標決め（KPI）を放棄して、プロジェクトトークンの値上がりで判断するようにした",
+      "image": null,
+      "descriptions": [
+        "[public.icon]",
+        "つまり、[Asset Futarchy]をすることにしたということ",
+        "[2025/5/20 butterのfounder noturhandle.eth • ヴォンさんとコール]",
+        "[2025/5/7 MetaDAOのfounderのmetaproph3tと話した]",
+        "[フタルキーのさまざまなタイプ：あなたが知りたい以上のもの - ガバナンスデザイン - GGリサーチ --- The Different Types of Futarchy: More Than You Wanted to Know - Governance Designs - GG Research]"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 5,
+      "linked": 0,
+      "created": 1747032691,
+      "updated": 1752225702,
+      "accessed": 1752228599,
+      "linesCount": 8,
+      "charsCount": 354,
+      "helpfeels": [],
+      "contentText": "MetaDAOはFutarchyでの指標決め（KPI）を放棄して、プロジェクトトークンの値上がりで判断するようにした つまり、[Asset Futarchy]をすることにしたということ [2025/5/7 MetaDAOのfounderのmetaproph3tと話した]",
+      "tags": [
+        "Asset Futarchy"
+      ]
+    },
     {
       "id": "686b653d0e2089f58484f7bf",
       "title": "チームみらいに対する「テクノリバタリアン」という批判は少し的を得ていない。重要なのは信頼できる中立性だ",
@@ -20,13 +156,13 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 6,
+      "views": 12,
       "linked": 0,
       "created": 1751867938,
-      "updated": 1751874735,
-      "accessed": 1752149907,
+      "updated": 1752206439,
+      "accessed": 1752251397,
       "linesCount": 23,
-      "charsCount": 377,
+      "charsCount": 379,
       "helpfeels": [],
       "contentText": "チームみらいに対する「テクノリバタリアン」という批判は少し的を得ていない。重要なのは信頼できる中立性だ ref: [中央集権の3つの軸] チームみらいの組織体系はどれほど分散しているか？ 人間が分散しているか？",
       "tags": [
@@ -35,15 +171,15 @@
       ]
     },
     {
-      "id": "686b5724e2cb48b59ed25e63",
-      "title": "メカニズムをデザインすることをガバナンスと言おう、選挙のことはどっちでもいい",
-      "image": "https://gyazo.com/43b2b391134c6a549161d83cc23aab02/raw",
+      "id": "682f301fa04df5d358b679bf",
+      "title": "軽量化",
+      "image": "https://gyazo.com/665ca31c5527731913f218f0d13473c4/raw",
       "descriptions": [
         "[public.icon]",
-        "「民主主義」「政治」と聞いた時にほとんどの人が想像することと、[tkgshn.icon]がやろうとしている「ガバナンス・統治」の違いをメモっておく",
-        "[tkgshn.icon]は、（[エドマンドバーグ]的な）\"[action]\"としてこの活動をしている",
-        "1. 元々は[DeCartography]というクリプトプロジェクトをやっていた",
-        "[違いを力に変える]ために、[cocm QF]のためのインフラ（[分散型ソーシャルグラフ]）を作っていた"
+        "[2025/5/28] これで[2025/6/12~20 上海]も行こうと思う[tkgshn.icon]",
+        "https://gemini.google.com/u/0/app/d1cecf5344073779?hl=ja&pli=1",
+        "[Gemini.icon]とチャットしてツールを作った",
+        "[ChatGPT.icon]よりも賢い"
       ],
       "user": {
         "id": "5b9f8ea76ffa88001309c5f2"
@@ -52,34 +188,27 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 7,
+      "views": 27,
       "linked": 0,
-      "created": 1751862798,
-      "updated": 1751873860,
-      "accessed": 1751865124,
-      "linesCount": 82,
-      "charsCount": 2659,
+      "created": 1747919849,
+      "updated": 1752205231,
+      "accessed": 1752240949,
+      "linesCount": 46,
+      "charsCount": 1058,
       "helpfeels": [],
-      "contentText": "メカニズムをデザインすることをガバナンスと言おう、選挙のことはどっちでもいい 「民主主義」「政治」と聞いた時にほとんどの人が想像することと、がやろうとしている「ガバナンス・統治」の違いをメモっておく は、（[エドマンドバーグ]的な）\"[action]\"としてこの活動をしている 1. 元々は[DeCartography]というクリプトプロジェクトをやっていた",
-      "tags": [
-        "エドマンドバーグ",
-        "action",
-        "DeCartography",
-        "違いを力に変える",
-        "cocm QF",
-        "分散型ソーシャルグラフ"
-      ]
+      "contentText": "軽量化 [2025/5/28] これで[2025/6/12~20 上海]も行こうと思う https://gemini.google.com/u/0/app/d1cecf5344073779?hl=ja&pli=1 とチャットしてツールを作った",
+      "tags": []
     },
     {
-      "id": "686b56eee2cb48b59ed204cc",
-      "title": "「正統性（Legitimacy）」という概念",
-      "image": "https://gyazo.com/492e6b0255e7febdb13df125e2bd1d2c/raw",
+      "id": "682c0f5a2a5e3493ed6bae71",
+      "title": "Tool4ADHD",
+      "image": "https://benmann.net/wp-content/uploads/2022/09/AppleNotesMeme-1536x1233.jpeg",
       "descriptions": [
         "[public.icon]",
-        "関連概念: [responsibility], [acountdability], [統治技術]",
-        "ここ半年ぐらい、[正統性]（[Legitimacy]）という言葉を知ってからの世界の見え方が面白い",
-        "ちなみに「正当性」とは別の概念",
-        "https://synodos.jp/opinion/politics/1645/"
+        "https://tkgshn.github.io/Tool4ADHD/",
+        "input",
+        "ようは、「[人間の判断をいかに蒸留するか]」というのがUIとしてのキモ",
+        "無意識に行なっていることをちゃんとトラッキングする、データ化する"
       ],
       "user": {
         "id": "5b9f8ea76ffa88001309c5f2"
@@ -88,177 +217,17 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 49,
+      "views": 46,
       "linked": 0,
-      "created": 1677876423,
-      "updated": 1751863762,
-      "accessed": 1751886093,
-      "linesCount": 143,
-      "charsCount": 7123,
+      "created": 1747707799,
+      "updated": 1752205213,
+      "accessed": 1750582788,
+      "linesCount": 53,
+      "charsCount": 1405,
       "helpfeels": [],
-      "contentText": "「正統性（Legitimacy）」という概念 関連概念: [responsibility], [acountdability], [統治技術] ここ半年ぐらい、[正統性]（[Legitimacy]）という言葉を知ってからの世界の見え方が面白い ちなみに「正当性」とは別の概念",
+      "contentText": "Tool4ADHD https://tkgshn.github.io/Tool4ADHD/ input ようは、「[人間の判断をいかに蒸留するか]」というのがUIとしてのキモ",
       "tags": [
-        "responsibility",
-        "acountdability",
-        "統治技術",
-        "正統性",
-        "Legitimacy"
-      ]
-    },
-    {
-      "id": "683ab97773866b9471d5d1d3",
-      "title": "日本のデジタル民主主義界隈で今何が起こっているのか",
-      "image": null,
-      "descriptions": [
-        "[public.icon]",
-        "[メカニズムをデザインすることをガバナンスと言おう、選挙のことはどっちでもいい]",
-        "LLM以前の世界",
-        "[polis]",
-        "[decidim]"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 29,
-      "linked": 0,
-      "created": 1748672618,
-      "updated": 1751862794,
-      "accessed": 1751962221,
-      "linesCount": 90,
-      "charsCount": 2949,
-      "helpfeels": [],
-      "contentText": "日本のデジタル民主主義界隈で今何が起こっているのか [メカニズムをデザインすることをガバナンスと言おう、選挙のことはどっちでもいい] LLM以前の世界 [polis]",
-      "tags": [
-        "polis",
-        "decidim"
-      ]
-    },
-    {
-      "id": "648d5fbf1a4989001b474557",
-      "title": "「機関（institution）」という概念ついて（Authority, Creditable Neutralityを含む）",
-      "image": "https://gyazo.com/8f58e1902c0199549c9b25a95334409a/raw",
-      "descriptions": [
-        "[public.icon]",
-        "from [2023/6/17]",
-        "「機関（[institution]）」という概念ついて（[Authority], [Credible Neutrality]を含���）",
-        "関連: [「正統性（Legitimacy）」という概念]",
-        "有名なやつ: [Credible Neutrality As A Guiding Principle]"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 15,
-      "linked": 0,
-      "created": 1686982068,
-      "updated": 1751860961,
-      "accessed": 1748558639,
-      "linesCount": 42,
-      "charsCount": 1012,
-      "helpfeels": [],
-      "contentText": "「機関（institution）」という概念ついて（Authority, Creditable Neutralityを含む） from [2023/6/17] 「機関（[institution]）」という概念ついて（[Authority], [Credible Neutrality]を含む） 関連: [「正統性（Legitimacy）」という概念]",
-      "tags": [
-        "institution",
-        "Authority",
-        "Credible Neutrality",
-        "「正統性（Legitimacy）」という概念"
-      ]
-    },
-    {
-      "id": "686a2110fbf9a1d9c33f330f",
-      "title": "NOMIN PACK",
-      "image": "https://gyazo.com/774c59e66fb7ae08bccf07fae6580ff2/raw",
-      "descriptions": [
-        "[public.icon]",
-        "[Arcteryx]",
-        "https://x.com/search?q=nomin%20pack&src=typed_query",
-        "[https://arcteryx.jp/pages/veilance-features-nomin VEILANCE Pack特集 | ARC'TERYX – アークテリクス – アークテリクス公式オンラインストア]",
-        "[https://gyazo.com/774c59e66fb7ae08bccf07fae6580ff2] [https://gyazo.com/357d781dd8b57a4c988515de6e97bcda] [https://gyazo.com/486b2bbbe30d6a3d4917fb9ef59eb043]"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 7,
-      "linked": 0,
-      "created": 1733369868,
-      "updated": 1751784100,
-      "accessed": 1752157687,
-      "linesCount": 29,
-      "charsCount": 943,
-      "helpfeels": [],
-      "contentText": "NOMIN PACK [Arcteryx] https://x.com/search?q=nomin%20pack&src=typed_query",
-      "tags": [
-        "Arcteryx"
-      ]
-    },
-    {
-      "id": "6865fa05a82754c7587335e8",
-      "title": "MacでWhisperAXを使って数時間にわたる会議音声を文字起こしする",
-      "image": "https://gyazo.com/2abea8379e9e747347184148c981dc04/raw",
-      "descriptions": [
-        "[public.icon]",
-        "from [2025/7/8 構想日本MTG]",
-        "タイトルは「Macで」となっているが、理論上はスマホでも使える",
-        "スペック次第かなぁ[tkgshn.icon*2]",
-        "Macで[WhisperAX]を使って会議音声を文字起こしする"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 4,
-      "linked": 0,
-      "created": 1751511011,
-      "updated": 1751511119,
-      "accessed": 1752145779,
-      "linesCount": 25,
-      "charsCount": 582,
-      "helpfeels": [],
-      "contentText": "MacでWhisperAXを使って数時間にわたる会議音声を文字起こしする from [2025/7/8 構想日本MTG] タイトルは「Macで」となっているが、理論上はスマホでも使える スペック次第かなぁ",
-      "tags": [
-        "WhisperAX"
-      ]
-    },
-    {
-      "id": "6865fa05a82754c7587335e4",
-      "title": "WhisperAX",
-      "image": null,
-      "descriptions": [
-        "[public.icon]",
-        "[オフラインでWhisper（文字起こし）を動かす]"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 0,
-      "linked": 0,
-      "created": 1751510952,
-      "updated": 1751510958,
-      "accessed": 1751569538,
-      "linesCount": 4,
-      "charsCount": 49,
-      "helpfeels": [],
-      "contentText": "WhisperAX [オフラインでWhisper（文字起こし）を動かす]",
-      "tags": [
-        "オフラインでWhisper（文字起こし）を動かす"
+        "人間の判断をいかに蒸留するか"
       ]
     }
   ]
