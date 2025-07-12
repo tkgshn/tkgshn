@@ -1,6 +1,6 @@
 {
   "project": "tkgshn",
-  "lastUpdated": 1752267961755,
+  "lastUpdated": 1752354320459,
   "pages": [
     {
       "id": "6870e2fb9d6a1b7569dc00ea",
@@ -20,7 +20,7 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 3,
+      "views": 4,
       "linked": 0,
       "created": 1752226268,
       "updated": 1752226420,
@@ -56,7 +56,7 @@
       "linked": 0,
       "created": 1751862798,
       "updated": 1752226412,
-      "accessed": 1752248134,
+      "accessed": 1752304156,
       "linesCount": 81,
       "charsCount": 2585,
       "helpfeels": [],
@@ -88,7 +88,7 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 7,
+      "views": 8,
       "linked": 0,
       "created": 1752225060,
       "updated": 1752226047,
@@ -125,7 +125,7 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 5,
+      "views": 6,
       "linked": 0,
       "created": 1747032691,
       "updated": 1752225702,
@@ -139,8 +139,37 @@
       ]
     },
     {
+      "id": "681290aa0c2349eafa83ac33",
+      "title": "Dの��志: 主権と連帯への d/acc の旅 — mashbean --- The Will of D: A d/acc Journey into Sovereignty and Solidarity — mashbean",
+      "image": "https://images.mirror-media.xyz/publication-images/2StxblY-ED0a8PsWEuTvv.png?height=1224&width=2448#.png",
+      "descriptions": [
+        "[public.icon]",
+        "[mashbean]",
+        "[Dの意思]",
+        "[d/acc], [2025/3/31 d/acc day at ETHTaipei]",
+        "[D の意志: 主権と連帯への d/acc の旅 — mashbean --- The Will of D: A d/acc Journey into Sovereignty and Solidarity — mashbean https://mirror.xyz/mashbean.eth/8Xv8CTHGGZbUhX3laWcum5QsohbX8nNAFsWsrcUIOyY]"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 51,
+      "linked": 0,
+      "created": 1744024214,
+      "updated": 1752211755,
+      "accessed": 1752201390,
+      "linesCount": 82,
+      "charsCount": 8478,
+      "helpfeels": [],
+      "contentText": "ページの内容を取得できませんでした",
+      "tags": []
+    },
+    {
       "id": "686b653d0e2089f58484f7bf",
-      "title": "チームみらいに対する「テクノリバタリアン」という批判は少し的を得ていない。重要なのは信頼できる中立性だ",
+      "title": "チームみらいに対す��「テクノリバタリアン」という批判は少し的を得ていない。重要なのは信頼できる中立性だ",
       "image": null,
       "descriptions": [
         "[public.icon]",
@@ -156,19 +185,16 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 12,
+      "views": 13,
       "linked": 0,
       "created": 1751867938,
       "updated": 1752206439,
-      "accessed": 1752251397,
+      "accessed": 1752353361,
       "linesCount": 23,
       "charsCount": 379,
       "helpfeels": [],
-      "contentText": "チームみらいに対する「テクノリバタリアン」という批判は少し的を得ていない。重要なのは信頼できる中立性だ ref: [中央集権の3つの軸] チームみらいの組織体系はどれほど分散しているか？ 人間が分散しているか？",
-      "tags": [
-        "中央集権の3つの軸",
-        "安野たかひろ"
-      ]
+      "contentText": "ページの内容を取得できませんでした",
+      "tags": []
     },
     {
       "id": "682f301fa04df5d358b679bf",
@@ -192,7 +218,7 @@
       "linked": 0,
       "created": 1747919849,
       "updated": 1752205231,
-      "accessed": 1752240949,
+      "accessed": 1752320073,
       "linesCount": 46,
       "charsCount": 1058,
       "helpfeels": [],
