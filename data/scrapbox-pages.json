@@ -1,17 +1,17 @@
 {
   "project": "tkgshn",
-  "lastUpdated": 1752354320459,
+  "lastUpdated": 1752440727597,
   "pages": [
     {
-      "id": "6870e2fb9d6a1b7569dc00ea",
-      "title": "行政が事業委託先の選定にfutarchyを使う",
-      "image": "https://gyazo.com/7a9a8654feb0dfcc5c5c9495cd370d89/raw",
+      "id": "68730dcd6fad10b109c58851",
+      "title": "戦争系の展示はあんまり面白くない",
+      "image": null,
       "descriptions": [
         "[public.icon]",
-        "[Futarchy], [公共調達]",
-        "demo: https://web-eight-lilac-71.vercel.app/market/mirai-6",
-        "[予算1億円で東京都23区「低所得単身世帯」の社会保障捕捉率を上げる]",
-        "[https://gyazo.com/7a9a8654feb0dfcc5c5c9495cd370d89]"
+        "分析がない",
+        "主観的",
+        "ナラティブを置く場所なので[それはそう]なのでは[blu3mo.icon]",
+        "それはそうだというのをあんまり理解していなかった[tkgshn.icon]"
       ],
       "user": {
         "id": "5b9f8ea76ffa88001309c5f2"
@@ -20,66 +20,29 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 4,
+      "views": 7,
       "linked": 0,
-      "created": 1752226268,
-      "updated": 1752226420,
-      "accessed": 1752248115,
-      "linesCount": 10,
-      "charsCount": 286,
+      "created": 1752366860,
+      "updated": 1752367939,
+      "accessed": 1752422752,
+      "linesCount": 18,
+      "charsCount": 238,
       "helpfeels": [],
-      "contentText": "行政が事業委託先の選定にfutarchyを使う [Futarchy], [公共調達] demo: https://web-eight-lilac-71.vercel.app/market/mirai-6 [予算1億円で東京都23区「低所得単身世帯」の社会保障捕捉率を上げる]",
+      "contentText": "戦争系の展示はあんまり面白くない 分析がない 主観的 ナラティブを置く場所なので[それはそう]なのでは",
       "tags": [
-        "Futarchy",
-        "公共調達"
+        "それはそう"
       ]
     },
     {
-      "id": "686b5724e2cb48b59ed25e63",
-      "title": "メカニズムをデザインすることをガバナンスと言おう、選挙のことはどっちでもいい",
-      "image": null,
+      "id": "68730dc86fad10b109c57dc8",
+      "title": "Xreal Eye",
+      "image": "https://pbs.twimg.com/media/Gu15IKeW4AAyw5q.jpg",
       "descriptions": [
         "[public.icon]",
-        "「民主主義」「政治」と聞いた時にほとんどの人が想像することと、[tkgshn.icon]がやろうとしている「ガバナンス・統治」の違いをメモっておく",
-        "[tkgshn.icon]は、（[エドマンドバーグ]的な）\"[action]\"としてこの活動をしている",
-        "1. 元々は[DeCartography]というクリプトプロジェクトをやっていた",
-        "[違いを力に変える]ために、[cocm QF]のためのインフラ（[分散型ソーシャルグラフ]）を作っていた"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 12,
-      "linked": 0,
-      "created": 1751862798,
-      "updated": 1752226412,
-      "accessed": 1752304156,
-      "linesCount": 81,
-      "charsCount": 2585,
-      "helpfeels": [],
-      "contentText": "メカニズムをデザインすることをガバナンスと言おう、選挙のことはどっちでもいい 「民主主義」「政治」と聞いた時にほとんどの人が想像することと、がやろうとしている「ガバナンス・統治」の違いをメモっておく は、（[エドマンドバーグ]的な）\"[action]\"としてこの活動をしている 1. 元々は[DeCartography]というクリプトプロジェクトをやっていた",
-      "tags": [
-        "エドマンドバーグ",
-        "action",
-        "DeCartography",
-        "違いを力に変える",
-        "cocm QF",
-        "分散型ソーシャルグラフ"
-      ]
-    },
-    {
-      "id": "6870e2fb9d6a1b7569dc00e7",
-      "title": "Futarchyは単独でやりたいと思ってもできない・一緒にやるガバナンスを持つ主体とやるのが良さそう",
-      "image": null,
-      "descriptions": [
-        "[public.icon]",
-        "futarchyはガバナンスのメカニズムなので、[Polymarket]のような予測市場プラットフォームとは違い、ガバナンスを実行する主体との[bizdev]が必要という認識",
-        "実際、すでにfutarchyを実施しているethreumプロジェクトを見ると、[MetaDAO]は[launchpad]と組み合わせて[最初からfutarchyを前提とするDAO]を作る方に振った",
-        "[butter]は[optimism]とのBizDevをめっちゃやっている",
-        "これを見ると、[メカニズムをデザインすることをガバナンスと言おう、選挙のことはどっちでもいい#686b5e090000000000166db2]にあるように、外部の組織とやるのが良さそう"
+        "[2025/7/13]",
+        ">[https://x.com/0xtkgshn/status/1942459362360144187 @0xtkgshn]: Xreal eyes 売ろうかなw レイバン メタぐらいじゃないと多分カメラめちゃくちゃ使いにくいし(タイプCケーブルで常につないでおく必要がある)しかも上のアクションボタンがカメラコントロールに上書きされるからもともと使ってたディスプレイの操作とか一手間かかるようになっ",
+        "[xRグラスで、有線デバイスでアプリケーションを動かすというのは筋が悪い気がする]",
+        "ここら辺はxRの研究者としての[blu3mo.icon]の意見も聞きたいところ"
       ],
       "user": {
         "id": "5b9f8ea76ffa88001309c5f2"
@@ -90,86 +53,143 @@
       "pin": 0,
       "views": 8,
       "linked": 0,
-      "created": 1752225060,
-      "updated": 1752226047,
-      "accessed": 1752228603,
-      "linesCount": 10,
-      "charsCount": 384,
+      "created": 1742889829,
+      "updated": 1752367901,
+      "accessed": 1752370632,
+      "linesCount": 36,
+      "charsCount": 1550,
       "helpfeels": [],
-      "contentText": "Futarchyは単独でやりたいと思ってもできない・一緒にやるガバナンスを持つ主体とやるのが良さそう futarchyはガバナンスのメカニズムなので、[Polymarket]のような予測市場プラットフォームとは違い、ガバナンスを実行する主体との[bizdev]が必要という認識 実際、すでにfutarchyを実施しているethreumプロジェクトを見ると、[MetaDAO]は[launchpad]と…",
-      "tags": [
-        "Polymarket",
-        "bizdev",
-        "MetaDAO",
-        "launchpad",
-        "最初からfutarchyを前提とするDAO",
-        "butter",
-        "optimism"
-      ]
-    },
-    {
-      "id": "6870e2f79d6a1b7569dbfafd",
-      "title": "MetaDAOはFutarchyでの指標決め（KPI）を放棄して、プロジェクトトークンの値上がりで判断するようにした",
-      "image": null,
-      "descriptions": [
-        "[public.icon]",
-        "つまり、[Asset Futarchy]をすることにしたということ",
-        "[2025/5/20 butterのfounder noturhandle.eth • ヴォンさんとコール]",
-        "[2025/5/7 MetaDAOのfounderのmetaproph3tと話した]",
-        "[フタルキーのさまざまなタイプ：あなたが知りたい以上のもの - ガバナンスデザイン - GGリサーチ --- The Different Types of Futarchy: More Than You Wanted to Know - Governance Designs - GG Research]"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 6,
-      "linked": 0,
-      "created": 1747032691,
-      "updated": 1752225702,
-      "accessed": 1752228599,
-      "linesCount": 8,
-      "charsCount": 354,
-      "helpfeels": [],
-      "contentText": "MetaDAOはFutarchyでの指標決め（KPI）を放棄して、プロジェクトトークンの値上がりで判断するようにした つまり、[Asset Futarchy]をすることにしたということ [2025/5/7 MetaDAOのfounderのmetaproph3tと話した]",
-      "tags": [
-        "Asset Futarchy"
-      ]
-    },
-    {
-      "id": "681290aa0c2349eafa83ac33",
-      "title": "Dの��志: 主権と連帯への d/acc の旅 — mashbean --- The Will of D: A d/acc Journey into Sovereignty and Solidarity — mashbean",
-      "image": "https://images.mirror-media.xyz/publication-images/2StxblY-ED0a8PsWEuTvv.png?height=1224&width=2448#.png",
-      "descriptions": [
-        "[public.icon]",
-        "[mashbean]",
-        "[Dの意思]",
-        "[d/acc], [2025/3/31 d/acc day at ETHTaipei]",
-        "[D の意志: 主権と連帯への d/acc の旅 — mashbean --- The Will of D: A d/acc Journey into Sovereignty and Solidarity — mashbean https://mirror.xyz/mashbean.eth/8Xv8CTHGGZbUhX3laWcum5QsohbX8nNAFsWsrcUIOyY]"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 51,
-      "linked": 0,
-      "created": 1744024214,
-      "updated": 1752211755,
-      "accessed": 1752201390,
-      "linesCount": 82,
-      "charsCount": 8478,
-      "helpfeels": [],
-      "contentText": "ページの内容を取得できませんでした",
+      "contentText": "Xreal Eye [2025/7/13] >: Xreal eyes 売ろうかなw レイバン メタぐらいじゃないと多分カメラめちゃくちゃ使いにくいし(タイプCケーブルで常につないでおく必要がある)しかも上のアクションボタンがカメラコントロールに上書きされるからもともと使ってたディスプレイの操作とか一手間かかるようになった [xRグラスで、有線デバイスでアプリケーションを動かすというのは筋が悪い気…",
       "tags": []
     },
     {
+      "id": "68730dcd6fad10b109c5885d",
+      "title": "中国語を入力する",
+      "image": "https://pbs.twimg.com/media/GvEOTwGWUAAmg6x.jpg",
+      "descriptions": [
+        "[public.icon]",
+        "とりあえずiPhoneでやる方法はわかった",
+        ">[https://x.com/0xtkgshn/status/1941348942194803122 @0xtkgshn]: [拼音]入力わかってきた",
+        ">[https://pbs.twimg.com/media/GvEOTwGWUAAmg6x.jpg]",
+        "[pin-in]がわかってないと入力できない"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 0,
+      "linked": 0,
+      "created": 1752367624,
+      "updated": 1752367840,
+      "accessed": 1752370637,
+      "linesCount": 9,
+      "charsCount": 208,
+      "helpfeels": [],
+      "contentText": "中国語を入力する とりあえずiPhoneでやる方法はわかった >: [拼音]入力わかってきた >",
+      "tags": [
+        "拼音",
+        "pin-in"
+      ]
+    },
+    {
+      "id": "68730dcd6fad10b109c5885a",
+      "title": "Alpha SL 30",
+      "image": "https://pbs.twimg.com/media/GvFl5WpaAAIw2Pz.jpg",
+      "descriptions": [
+        "[public.icon]",
+        ">[https://x.com/0xtkgshn/status/1941445054444470778 @0xtkgshn]: Arc’teryx のalpha SL 30 backpack を手に入れた！カナダからhttps://t.co/uNg7cyTAMmで個人輸入",
+        ">[https://pbs.twimg.com/media/GvFl5WpaAAIw2Pz.jpg]"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 1,
+      "linked": 0,
+      "created": 1752367578,
+      "updated": 1752367584,
+      "accessed": 1752373746,
+      "linesCount": 5,
+      "charsCount": 210,
+      "helpfeels": [],
+      "contentText": "Alpha SL 30 >: Arc’teryx のalpha SL 30 backpack を手に入れた！カナダからhttps://t.co/uNg7cyTAMmで個人輸入 >",
+      "tags": []
+    },
+    {
+      "id": "68730dcd6fad10b109c58857",
+      "title": "トランプが大統領選で有る事無い事喋って、予測市場の結果を見て実際に政策として採用するかを決める",
+      "image": null,
+      "descriptions": [
+        "[public.icon]",
+        "[Optimize by attention]",
+        "[Polymarket]",
+        "これは倫理的には[市場操作]に当たると思うが、そんなことを言っている問題ではない",
+        "[参政党]も同じものとして解釈できる？"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 1,
+      "linked": 0,
+      "created": 1752367461,
+      "updated": 1752367525,
+      "accessed": 1752382032,
+      "linesCount": 8,
+      "charsCount": 156,
+      "helpfeels": [],
+      "contentText": "トランプが大統領選で有る事無い事喋って、予測市場の結果を見て実際に政策として採用するかを決める [Optimize by attention] [Polymarket] これは倫理的には[市場操作]に当たると思うが、そんなことを言っている問題ではない",
+      "tags": [
+        "Optimize by attention",
+        "Polymarket",
+        "市場操作",
+        "参政党"
+      ]
+    },
+    {
+      "id": "68730dcd6fad10b109c5884b",
+      "title": "落合（sg）用語",
+      "image": null,
+      "descriptions": [
+        "[public.icon]",
+        "[shogochiai]",
+        ">[https://x.com/shogochiai/status/1941956306686156912 @shogochiai]: 社会契約における無限とゼロの使い所は共有リソースなのだから、イデオロギー間で善悪を競ってときには怒りの力も動員して争うのが無明（人の業）を工学対象にするということだし政治と思うんだが、そのへんが見えにくくなったことも含めて後が詰まってるのが人口減少局面の有限性の厳",
+        "[避けられない自明なことを明言する]",
+        "これが真摯さだと思う[tkgshn.icon]"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 3,
+      "linked": 0,
+      "created": 1752366684,
+      "updated": 1752367282,
+      "accessed": 1752370637,
+      "linesCount": 16,
+      "charsCount": 589,
+      "helpfeels": [],
+      "contentText": "落合（sg）用語 [shogochiai] >: 社会契約における無限とゼロの使い所は共有リソースなのだから、イデオロギー間で善悪を競ってときには怒りの力も動員して争うのが無明（人の業）を工学対象にするということだし政治と思うんだが、そのへんが見えにくくなったことも含めて後が詰まってるのが人口減少局面の有限性の厳しさってやつで [避けられない自明なことを明言する]",
+      "tags": [
+        "shogochiai",
+        "避けられない自明なことを明言する"
+      ]
+    },
+    {
       "id": "686b653d0e2089f58484f7bf",
-      "title": "チームみらいに対す��「テクノリバタリアン」という批判は少し的を得ていない。重要なのは信頼できる中立性だ",
+      "title": "チームみらいに対する「テクノリバタリアン」という批判は少し的を得ていない。重要なのは信頼できる中立性だ",
       "image": null,
       "descriptions": [
         "[public.icon]",
@@ -185,75 +205,115 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 13,
+      "views": 21,
       "linked": 0,
       "created": 1751867938,
-      "updated": 1752206439,
-      "accessed": 1752353361,
-      "linesCount": 23,
-      "charsCount": 379,
+      "updated": 1752367188,
+      "accessed": 1752412645,
+      "linesCount": 27,
+      "charsCount": 708,
       "helpfeels": [],
-      "contentText": "ページの内容を取得できませんでした",
-      "tags": []
-    },
-    {
-      "id": "682f301fa04df5d358b679bf",
-      "title": "軽量化",
-      "image": "https://gyazo.com/665ca31c5527731913f218f0d13473c4/raw",
-      "descriptions": [
-        "[public.icon]",
-        "[2025/5/28] これで[2025/6/12~20 上海]も行こうと思う[tkgshn.icon]",
-        "https://gemini.google.com/u/0/app/d1cecf5344073779?hl=ja&pli=1",
-        "[Gemini.icon]とチャットしてツールを作った",
-        "[ChatGPT.icon]よりも賢い"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 27,
-      "linked": 0,
-      "created": 1747919849,
-      "updated": 1752205231,
-      "accessed": 1752320073,
-      "linesCount": 46,
-      "charsCount": 1058,
-      "helpfeels": [],
-      "contentText": "軽量化 [2025/5/28] これで[2025/6/12~20 上海]も行こうと思う https://gemini.google.com/u/0/app/d1cecf5344073779?hl=ja&pli=1 とチャットしてツールを作った",
-      "tags": []
-    },
-    {
-      "id": "682c0f5a2a5e3493ed6bae71",
-      "title": "Tool4ADHD",
-      "image": "https://benmann.net/wp-content/uploads/2022/09/AppleNotesMeme-1536x1233.jpeg",
-      "descriptions": [
-        "[public.icon]",
-        "https://tkgshn.github.io/Tool4ADHD/",
-        "input",
-        "ようは、「[人間の判断をいかに蒸留するか]」というのがUIとしてのキモ",
-        "無意識に行なっていることをちゃんとトラッキングする、データ化する"
-      ],
-      "user": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "lastUpdateUser": {
-        "id": "5b9f8ea76ffa88001309c5f2"
-      },
-      "pin": 0,
-      "views": 46,
-      "linked": 0,
-      "created": 1747707799,
-      "updated": 1752205213,
-      "accessed": 1750582788,
-      "linesCount": 53,
-      "charsCount": 1405,
-      "helpfeels": [],
-      "contentText": "Tool4ADHD https://tkgshn.github.io/Tool4ADHD/ input ようは、「[人間の判断をいかに蒸留するか]」というのがUIとしてのキモ",
+      "contentText": "チームみらいに対する「テクノリバタリアン」という批判は少し的を得ていない。重要なのは信頼できる中立性だ ref: [中央集権の3つの軸] チームみらいの組織体系はどれほど分散しているか？ 人間が分散しているか？",
       "tags": [
-        "人間の判断をいかに蒸留するか"
+        "中央集権の3つの軸",
+        "安野たかひろ"
+      ]
+    },
+    {
+      "id": "68730dcd6fad10b109c58854",
+      "title": "バランスボールで作業",
+      "image": null,
+      "descriptions": [
+        "[public.icon]",
+        "[わいまつ]とかがやっているイメージ",
+        "元々は[アーロンチェア]を使っていた",
+        "[佐賀の家]で導入",
+        "悪くない"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 4,
+      "linked": 0,
+      "created": 1752367044,
+      "updated": 1752367154,
+      "accessed": 1752389706,
+      "linesCount": 19,
+      "charsCount": 232,
+      "helpfeels": [],
+      "contentText": "バランスボールで作業 [わいまつ]とかがやっているイメージ 元々は[アーロンチェア]を使っていた [佐賀の家]で導入",
+      "tags": [
+        "わいまつ",
+        "アーロンチェア",
+        "佐賀の家"
+      ]
+    },
+    {
+      "id": "68730dcd6fad10b109c5884e",
+      "title": "Garmin Inreachを含む衛星通信デバイスはインドに持ち込めない",
+      "image": "https://pbs.twimg.com/media/GrP5fokWsAA2AW3.jpg",
+      "descriptions": [
+        "[public.icon]",
+        ">[https://x.com/shin__hod/status/1924155800588866014 @shin__hod]: Garmin inReach Mini 2という地球上のどこでも救助が呼べる端末がある",
+        ">これをインドに持っていったらインド国内での無許可所持が違法だったため、インドを出国できなくなって裁判所に行く羽目になった",
+        ">[https://pbs.twimg.com/media/GrP5fokWsAA2AW3.jpg]",
+        "[Garmin Inreach Messanger]"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 0,
+      "linked": 0,
+      "created": 1752366736,
+      "updated": 1752366766,
+      "accessed": 1752370637,
+      "linesCount": 9,
+      "charsCount": 302,
+      "helpfeels": [],
+      "contentText": "Garmin Inreachを含む衛星通信デバイスはインドに持ち込めない >: Garmin inReach Mini 2という地球上のどこでも救助が呼べる端末がある >これをインドに持っていったらインド国内での無許可所持が違法だったため、インドを出国できなくなって裁判所に行く羽目になった >",
+      "tags": [
+        "Garmin Inreach Messanger"
+      ]
+    },
+    {
+      "id": "68730dcd6fad10b109c58848",
+      "title": "不誠実な無限",
+      "image": null,
+      "descriptions": [
+        "[public.icon]",
+        "[落合（sg）用語]",
+        "対義語: [誠実な有限]",
+        "[星さんの「人権」批判]",
+        ">[https://x.com/0xtkgshn/status/1944043212852580622 @0xtkgshn]: 不誠実な無限"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 1,
+      "linked": 0,
+      "created": 1752366669,
+      "updated": 1752366728,
+      "accessed": 1752370637,
+      "linesCount": 12,
+      "charsCount": 324,
+      "helpfeels": [],
+      "contentText": "不誠実な無限 [落合（sg）用語] 対義語: [誠実な有限] [星さんの「人権」批判]",
+      "tags": [
+        "落合（sg）用語",
+        "誠実な有限",
+        "星さんの「人権」批判"
       ]
     }
   ]
