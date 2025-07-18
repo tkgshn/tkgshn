@@ -1,7 +1,39 @@
 {
   "project": "tkgshn",
-  "lastUpdated": 1752786377099,
+  "lastUpdated": 1752872770642,
   "pages": [
+    {
+      "id": "6879db21d625aa5805ef57a5",
+      "title": "2025/7/18 DDのLT:  vTaiwan＆Join",
+      "image": "https://gyazo.com/84b15a67bf9d285a99bd5623f4da4674/raw",
+      "descriptions": [
+        "[public.icon]",
+        "[DD2030]",
+        ">[モアイ moai]: 直前で申し訳ありません！",
+        "> 明日のMEETUPの１コーナー",
+        "> 世界のデジタル民主主義事例について皆で話す勉強会"
+      ],
+      "user": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "lastUpdateUser": {
+        "id": "5b9f8ea76ffa88001309c5f2"
+      },
+      "pin": 0,
+      "views": 52,
+      "linked": 0,
+      "created": 1752816418,
+      "updated": 1752834784,
+      "accessed": 1752868366,
+      "linesCount": 186,
+      "charsCount": 6137,
+      "helpfeels": [],
+      "contentText": "2025/7/18 DDのLT: vTaiwan＆Join [DD2030] >[モアイ moai]: 直前で申し訳ありません！ > 明日のMEETUPの１コーナー",
+      "tags": [
+        "DD2030",
+        "モアイ moai"
+      ]
+    },
     {
       "id": "68730dcd6fad10b109c58851",
       "title": "戦争系の展示はあんまり面白くない",
@@ -20,11 +52,11 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 10,
+      "views": 11,
       "linked": 0,
       "created": 1752366860,
       "updated": 1752367939,
-      "accessed": 1752558603,
+      "accessed": 1752832225,
       "linesCount": 18,
       "charsCount": 238,
       "helpfeels": [],
@@ -110,11 +142,11 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 5,
+      "views": 6,
       "linked": 0,
       "created": 1752367578,
       "updated": 1752367584,
-      "accessed": 1752741076,
+      "accessed": 1752832217,
       "linesCount": 5,
       "charsCount": 210,
       "helpfeels": [],
@@ -173,11 +205,11 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 9,
+      "views": 13,
       "linked": 0,
       "created": 1752366684,
       "updated": 1752367282,
-      "accessed": 1752734111,
+      "accessed": 1752832288,
       "linesCount": 16,
       "charsCount": 589,
       "helpfeels": [],
@@ -205,11 +237,11 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 36,
+      "views": 44,
       "linked": 0,
       "created": 1751867938,
       "updated": 1752367188,
-      "accessed": 1752667462,
+      "accessed": 1752868710,
       "linesCount": 27,
       "charsCount": 708,
       "helpfeels": [],
@@ -301,11 +333,11 @@
         "id": "5b9f8ea76ffa88001309c5f2"
       },
       "pin": 0,
-      "views": 6,
+      "views": 9,
       "linked": 0,
       "created": 1752366669,
       "updated": 1752366728,
-      "accessed": 1752563734,
+      "accessed": 1752832289,
       "linesCount": 12,
       "charsCount": 324,
       "helpfeels": [],
