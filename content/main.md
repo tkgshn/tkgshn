@@ -177,6 +177,7 @@ Contributing [SimpleGrants](https://www.simplegrants.xyz/) from [Gitcoin](https:
 - Twitter（JA）: https://twitter.com/0xtkgshn
 - Twitter（EN）: https://twitter.com/0xcommune
 - Bluesky: https://bsky.app/profile/tkgshn.bsky.social
+- Facebook: https://www.facebook.com/tkgshn/
 - Nostr: `npub1txum90npvsupzu347gm02gvlnznmw3f9444p5vegt7647mnegjnqd5fehn`
 - Instagram: https://www.instagram.com/tkgshn
 - Telegram: `tkgshn`
