@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>tkgshn.com</title>
+  <title>tkgshn: taka, 高木俊輔</title>
   <link rel="icon" href="https://i.gyazo.com/4f6a139f4eaa0c5d5a04363b95f18cae.jpg" type="image/x-icon">
 
   <!-- SEO メタタグ -->
@@ -14,7 +14,7 @@
   <meta name="robots" content="index, follow">
 
   <!-- Open Graph -->
-  <meta property="og:title" content="tkgshn.com">
+  <meta property="og:title" content="tkgshn: taka, 高木俊輔">
   <meta property="og:description" content="Taka, Shunsuke Takagi (高木俊輔) is an IT consultant and independent researcher based in Tokyo.">
   <meta property="og:url" content="https://tkgshn.com">
   <meta property="og:image" content="https://i.gyazo.com/4f6a139f4eaa0c5d5a04363b95f18cae.jpg">
@@ -22,7 +22,7 @@
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="tkgshn.com">
+  <meta name="twitter:title" content="tkgshn: taka, 高木俊輔">
   <meta name="twitter:description" content="Taka, Shunsuke Takagi is an IT consultant and independent researcher based in Tokyo.">
   <meta name="twitter:image" content="https://i.gyazo.com/4f6a139f4eaa0c5d5a04363b95f18cae.jpg">
 
@@ -54,37 +54,6 @@
       div[style*="display: flex"] > a {
         margin: 10px 0 !important;
       }
-    }
-    /* Scrapboxページのスタイル - 既存のproject-listスタイルに統一 */
-    .scrapbox-item {
-      background-color: #f0f0f0;
-      padding: 15px;
-      border-radius: 5px;
-      margin-bottom: 15px;
-      cursor: pointer;
-    }
-    .scrapbox-item:hover {
-      background-color: #e8e8e8;
-    }
-    .scrapbox-date {
-      font-size: 0.8rem;
-      color: #666;
-      margin-bottom: 5px;
-    }
-    .scrapbox-title {
-      font-weight: bold;
-      margin-bottom: 10px;
-      color: #333;
-    }
-    .scrapbox-content {
-      font-size: 0.9rem;
-      line-height: 1.4;
-      color: #555;
-      margin-bottom: 10px;
-    }
-    .scrapbox-tags {
-      font-size: 0.8rem;
-      color: #777;
     }
   </style>
 </head>
@@ -130,8 +99,6 @@
         // プロジェクトセクションをラップする
         wrapProjectSections();
 
-        // Scrapboxページを読み込む
-        loadScrapboxPages();
       } catch (error) {
         console.error('コンテンツの読み込みに失敗しました:', error);
         document.getElementById('content').innerHTML = '<p>コンテンツの読み込みに失敗しました。ページを再読み込みしてください。</p>';
@@ -171,74 +138,6 @@
           }
         }
       });
-    }
-
-            /**
-     * 計画: JSONファイルからScrapboxページを読み込み、表示する関数
-     */
-    async function loadScrapboxPages() {
-      const scrapboxContainer = document.getElementById('scrapbox-pages');
-      if (!scrapboxContainer) return;
-
-      try {
-        console.log('Scrapboxページの読み込みを開始...');
-
-        // GitHub Actionsで生成されたJSONファイルから読み込み
-        const response = await fetch('./data/scrapbox-pages.json');
-
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
-        }
-
-        const data = await response.json();
-
-        if (!data.pages || data.pages.length === 0) {
-          throw new Error('No pages found in data');
-        }
-
-        renderScrapboxPages(data.pages, data.project, scrapboxContainer);
-        console.log(`Scrapboxページの読み込み成功: ${data.pages.length}件`);
-
-      } catch (error) {
-        console.error('Scrapboxページの読み込みに失敗しました:', error);
-        scrapboxContainer.innerHTML = '<div style="text-align: center; padding: 20px; color: #666;">Scrapboxページの読み込みに失敗しました。</div>';
-      }
-    }
-
-            /**
-     * 計画: 日付をフォーマットする関数
-     */
-    function formatDate(timestamp) {
-      return new Date(timestamp * 1000).toLocaleDateString('ja-JP', {
-        year: 'numeric',
-        month: 'short',
-        day: 'numeric'
-      });
-    }
-
-    /**
-     * 計画: Scrapboxページをproject-listスタイルでレンダリングする関数
-     */
-    function renderScrapboxPages(pages, project, container) {
-      const itemsHtml = pages.map(page => `
-        <div class="scrapbox-item" onclick="window.open('https://scrapbox.io/${project}/${encodeURIComponent(page.title)}', '_blank')">
-          <div class="scrapbox-date">${formatDate(page.updated)}</div>
-          <div class="scrapbox-title">${page.title}</div>
-          ${page.contentText ? `<div class="scrapbox-content">${page.contentText}</div>` : ''}
-          ${page.tags && page.tags.length > 0 ? `<div class="scrapbox-tags">${page.tags.slice(0, 4).map(tag => `#${tag}`).join(' ')}${page.tags.length > 4 ? ` +${page.tags.length - 4}` : ''}</div>` : ''}
-        </div>
-      `).join('');
-
-      const fullHtml = `
-        ${itemsHtml}
-        <div style="text-align: center; margin-top: 10px;">
-          <a href="https://scrapbox.io/${project}" target="_blank" style="color: #0066cc; text-decoration: none;">
-            View more on Scrapbox →
-          </a>
-        </div>
-      `;
-
-      container.innerHTML = fullHtml;
     }
 
     // ページ読み込み時にコンテンツを読み込む
